@@ -71,8 +71,7 @@
   
 ### RapidAPI: Microsoft-Translator-3  
 :white_check_mark: Microsoft-Translator-3 respone fine  
-:white_check_mark: Microsoft-Translator-3 status fine  
-:white_check_mark: Microsoft-Translator-3 results found  
+:no_entry: Microsoft-Translator-3 is unreachable  
 
 ---
   
