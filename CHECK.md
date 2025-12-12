@@ -1,14 +1,9 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:no_entry: EXTREME_LANGUAGE **missing**:  
-1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/sonjanews/greekExtremes/settings/secrets/actions  
-   * Name:  **EXTREME_LANGUAGE**   
-   * Value: **Your language code here**   
+:white_check_mark: EXTREME_LANGUAGE key exists (bn)  
 ### EXTREME_GH_TOKEN  
-:no_entry: EXTREME_GH_TOKEN **missing**:  
-1. Assign the API key as new organization secret at https://github.com/organizations/sonjanews/settings/secrets/actions/new  
-   * Name:  **EXTREME_GH_TOKEN**   
-   * Value: **Your key here**   
+:white_check_mark: EXTREME_GH_TOKEN exists  
+:white_check_mark: EXTREME_GH_TOKEN working  
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
