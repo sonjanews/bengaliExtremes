@@ -1,12 +1,14 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:white_check_mark: EXTREME_LANGUAGE key exists  
-:white_check_mark: NewsAPI respone fine  
-:white_check_mark: NewsAPI status fine  
-:white_check_mark: NewsAPI results found  
+:no_entry: EXTREME_LANGUAGE **missing**:  
+1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/sonjanews/greekExtremes/settings/secrets/actions  
+   * Name:  **EXTREME_LANGUAGE**   
+   * Value: **Your language code here**   
 ### EXTREME_GH_TOKEN  
-:white_check_mark: EXTREME_GH_TOKEN exists  
-:white_check_mark: EXTREME_GH_TOKEN working  
+:no_entry: EXTREME_GH_TOKEN **missing**:  
+1. Assign the API key as new organization secret at https://github.com/organizations/sonjanews/settings/secrets/actions/new  
+   * Name:  **EXTREME_GH_TOKEN**   
+   * Value: **Your key here**   
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
@@ -107,7 +109,7 @@
   
 ### RapidAPI: Deepl-Translator-4  
 :white_check_mark: Deepl-Translator-4 respone fine  
-:no_entry: Deepl-Translator-4 status **failed**:  
+:no_entry: **Not** subscribed to Deepl-Translator-4  
 Subscribe to Deepl-Translator-4 API:  
 1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
 2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
