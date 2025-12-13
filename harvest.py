@@ -701,6 +701,9 @@ def inqRandomNews(maxCount=1):
                 if(foundNew):     
                     maxCount  -= (2 + len(newArticles))  
                     storeCollection()
+             else:
+               #0 articles found
+               print(['0 articles found, counter:',newCounter ,'ratio: ',currRatio])
             else:
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
