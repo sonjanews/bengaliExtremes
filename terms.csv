@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'0c3100212d',extremes,Earthquake,#870007,usgs,ভূমিকম্প বাংলাদেশ,2025-11-25T03:36:00+00:00,Bangladesh,0.7025420328434331,0,2,bn,SAS,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,দাবানল উত্তরাখণ্ড,2025-11-29T03:34:00+00:00,India,0.6085617002534103,0,2,bn,SAS,Asia
 'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গলপাট্টু জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.600047222123113,0,1,bn,SAS,Asia
 '4645204231',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.5981356498119972,0,1,bn,SAS,Asia
 '6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি হচ্ছে,2025-11-30T03:46:00+00:00,India,0.5971155317313375,0,1,bn,SAS,Asia
@@ -34,3 +36,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,বন্যা কুইন্সল্যান্ড,2025-11-27T03:34:00+00:00,Australia,0.3187971077162626,0,2,bn,CAU,Oceania
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,দক্ষিণ অস্ট্রেলিয়ায় আগুন নিষেধাজ্ঞা,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,bn,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,ভারী বৃষ্টি উত্তর অঞ্চল,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,2,bn,CAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,ফ্ল্যাশ বন্যা দক্ষিণ অস্ট্রেলিয়া,2025-11-27T03:34:00+00:00,Australia,0.31874140969916037,0,2,bn,SAU,Oceania
+'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern territory,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,bn,CAU,Oceania
+'d5576244aa',extremes,Heat Wave,#c40202,acwe,তাপপ্রবাহ উত্তর অঞ্চল,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,bn,NAU,Oceania
+'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,ভেজা বানান অস্ট্রেলিয়া,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,bn,CAU,Oceania
+'cf0028758b',extremes,Flood,#030ba1,acwe,ফ্ল্যাশ বন্যা কুইন্সল্যান্ড,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,2,bn,CAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,ভেজা বানান নিউ সাউথ ওয়েলস,2025-11-27T03:34:00+00:00,Australia,0.3179579791731195,0,2,bn,EAU,Oceania
+'6977afac24',extremes,Volcano,#b83202,eonet,পুরাস আগ্নেয়গিরি কলম্বিয়া,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,bn,NWS,South-America
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,কোল্ডওয়েভ ভিক্টোরিয়া,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,bn,SAU,Oceania
