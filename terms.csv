@@ -1,11 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0c3100212d',extremes,Earthquake,#870007,usgs,ভূমিকম্প বাংলাদেশ,2025-11-25T03:36:00+00:00,Bangladesh,0.5971607279169181,1,1,bn,SAS,Asia
-'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত ভারত,2025-12-07T03:47:00+00:00,India,0.5272391133889066,1,1,bn,SAS,Asia
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,দাবানল উত্তরাখণ্ড,2025-11-29T03:34:00+00:00,India,0.5172774452153988,1,1,bn,SAS,Asia
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2025-11-23T03:46:00+00:00,India,0.5113852257359857,1,1,bn,SAS,Asia
 '863f010e8b',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.5109604063831568,1,1,bn,SAS,Asia
-'4688c266b3',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গালপাট্টু জেলা,2025-11-30T03:46:00+00:00,India,0.5106612300412146,1,1,bn,SAS,Asia
 '66cd4fa8fa',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেন্নাই জেলা,2025-11-30T03:46:00+00:00,India,0.5085370480110833,1,1,bn,SAS,Asia
+'0c3100212d',extremes,Earthquake,#870007,usgs,ভূমিকম্প বাংলাদেশ,2025-11-25T03:36:00+00:00,Bangladesh,0.5075866187293804,2,1,bn,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2025-12-10T03:45:00+00:00,India,0.5072720642023885,1,1,bn,SAS,Asia
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.5059040742692135,1,1,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2025-12-03T03:40:00+00:00,Bangladesh,0.5022355483576355,1,1,bn,SAS,Asia
@@ -13,19 +9,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '804cdb6716',extremes,Precipitation,#d60d2b,wmo,অন্ধ্রপ্রদেশের ৬টি জেলায় বৃষ্টি,2025-11-29T03:34:00+00:00,India,0.4976235572749279,1,1,bn,SAS,Asia
 '2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি নেলোরে তিরুপতি,2025-12-03T03:40:00+00:00,India,0.4956247100338112,1,1,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.4525013289259209,1,1,bn,SAS,Asia
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত ভারত,2025-12-07T03:47:00+00:00,India,0.4481532463805706,2,1,bn,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2025-11-30T03:46:00+00:00,India,0.4408173078279617,2,1,bn,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2025-11-28T03:34:00+00:00,India,0.4407800306436157,2,1,bn,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ভারত,2025-11-23T03:46:00+00:00,India,0.4402706791277005,2,1,bn,SAS,Asia
-'615a4551a5',extremes,Flood,#030ba1,wmo,ভারত বন্যা,2025-11-25T03:37:00+00:00,India,0.44013794144109436,2,1,bn,SAS,Asia
-'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.43833967071120294,2,1,bn,SAS,Asia
+'615a4551a5',extremes,Flood,#030ba1,wmo,ভারত বন্যা,2025-11-25T03:37:00+00:00,India,0.4401379414410943,2,1,bn,SAS,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,দাবানল উত্তরাখণ্ড,2025-11-29T03:34:00+00:00,India,0.43968582843308895,2,1,bn,SAS,Asia
+'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.4383396707112029,2,1,bn,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,হিম তরঙ্গ ভারত,2025-12-08T03:44:00+00:00,India,0.435273442859891,2,1,bn,SAS,Asia
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2025-11-23T03:46:00+00:00,India,0.4346774418755878,2,1,bn,SAS,Asia
 '4645204231',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.432153006989168,2,1,bn,SAS,Asia
 '6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি হচ্ছে,2025-11-30T03:46:00+00:00,India,0.4314159716758913,2,1,bn,SAS,Asia
 'ec0c0a268e',extremes,Thunderstorm,#53785a,wmo,পুদুচেরির কারাইকাল জেলা,2025-12-07T03:47:00+00:00,India,0.4126411621467482,1,1,bn,SAS,Asia
 '69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2025-12-02T03:41:00+00:00,Bangladesh,0.3891570875267548,1,1,bn,SAS,Asia
-'82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2025-12-09T03:41:00+00:00,India,0.3759650413393898,0,2,bn,SAS,Asia
-'35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2025-12-14T03:49:00+00:00,India,0.3618940359563012,0,2,bn,SAS,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,শুষ্কতা ভারত,2025-11-28T03:34:00+00:00,India,0.3250072419512955,1,1,bn,SAS,Asia
+'82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2025-12-09T03:41:00+00:00,India,0.3195702851384813,1,1,bn,SAS,Asia
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,গ্রীষ্মমন্ডলীয় ঘূর্ণিঝড় দিতওয়াহ,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,bn,EIO,Indian Ocean
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,দক্ষিণ অস্ট্রেলিয়ায় আগুন নিষেধাজ্ঞা,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,bn,CAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern territory,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,bn,CAU,Oceania
@@ -47,7 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,বৃষ্টির অভাব নিরক্ষীয় গিনি,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,2,bn,WAF,Africa
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত ব্রাজিল,2025-11-27T03:34:00+00:00,Brazil,0.3069755929876847,0,2,bn,SAM,South-America
 'c2a929c5e2',extremes,Volcano,#b83202,eonet,অনুর্বর দ্বীপ আগ্নেয়গিরি ভারত,2025-12-09T03:40:00+00:00,India,0.3019706646756173,1,1,bn,SEA,Asia
-'60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2025-12-13T03:38:00+00:00,India,0.30055598245495624,1,1,bn,SAS,Asia
+'60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2025-12-13T03:38:00+00:00,India,0.3005559824549562,1,1,bn,SAS,Asia
 '80e7df8200',extremes,Volcano,#b83202,eonet,আগ্নেয়গিরি ভারত,2025-12-06T03:32:00+00:00,India,0.2951045932301248,1,1,bn,SEA,Asia
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,বন্যা কুইন্সল্যান্ড,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,bn,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,ভারী বৃষ্টি উত্তর অঞ্চল,2025-11-26T03:37:00+00:00,Australia,0.2709367906591342,1,1,bn,CAU,Oceania
