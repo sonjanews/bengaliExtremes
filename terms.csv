@@ -37,6 +37,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ চিলি,2025-12-04T03:42:00+00:00,Chile,0.3044708923289994,0,2,bn,SWS,South-America
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,দাবানল দক্ষিণ আফ্রিকা,2025-12-02T03:41:00+00:00,South Africa,0.3044621583511946,0,2,bn,WSAF,Africa
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,storm surge reg. 4 কর্ডিলের,2025-12-04T03:42:00+00:00,Chile,0.3043701275559243,0,2,bn,SWS,South-America
+'c85db986fe',extremes,Precipitation,#d60d2b,wmo,প্রবল বৃষ্টি মাদাগাস্কার,2025-12-06T03:32:00+00:00,Madagascar,0.30435429246648593,0,2,bn,MDG,Africa
+'9044bc0335',extremes,Earthquake,#870007,usgs,ভূমিকম্প জর্জটাউন,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,bn,EAO,Atlantic Ocean
+'dc8be80c47',extremes,Drought,#edc291,edo,শুষ্কতা ফ্যারো দ্বীপপুঞ্জ,2025-12-05T03:41:00+00:00,Faroe Islands,0.30429413159985474,0,2,bn,NEU,Europe
+'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,bn,SAH,Africa
+'a2c72301a8',extremes,Drought,#edc291,edo,খরা ক্যামেরুন,2025-12-08T03:45:00+00:00,Cameroon,0.30425338546101616,0,2,bn,CAF,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ দক্ষিণ আফ্রিকা,2025-12-01T04:02:00+00:00,South Africa,0.30419798091588524,0,2,bn,WSAF,Africa
+'8be002d270',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভেনেজুয়েলা,2025-12-02T03:41:00+00:00,Venezuela,0.30418467408514355,0,2,bn,NSA,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,storm surge Paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.30416853638142277,0,2,bn,SES,South-America
+'46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,মালদ্বীপে বৃষ্টিপাত,2025-11-30T03:46:00+00:00,Maldives,0.3041559310830806,0,2,bn,EIO,Indian Ocean
+'9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,তুষারপাত কানাডা,2025-12-10T03:45:00+00:00,Canada,0.3041520329813526,0,2,bn,NEN,North-America
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2025-12-13T03:38:00+00:00,India,0.3005559824549562,1,1,bn,SAS,Asia
 '80e7df8200',extremes,Volcano,#b83202,eonet,আগ্নেয়গিরি ভারত,2025-12-06T03:32:00+00:00,India,0.2951045932301248,1,1,bn,SEA,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.2778923786266311,4,1,bn,SAS,Asia
@@ -47,7 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d59b1d751',extremes,Flood,#030ba1,acwe,ফ্ল্যাশ বন্যা দক্ষিণ অস্ট্রেলিয়া,2025-11-27T03:34:00+00:00,Australia,0.2709301982442862,1,1,bn,SAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern territory,2025-11-27T03:34:00+00:00,Australia,0.2708703944580475,1,1,bn,CAU,Oceania
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2025-11-30T03:46:00+00:00,India,0.2707169291698469,5,1,bn,SAS,Asia
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2025-11-28T03:34:00+00:00,India,0.27069403631901046,5,1,bn,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2025-11-28T03:34:00+00:00,India,0.2706940363190104,5,1,bn,SAS,Asia
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,ভেজা বানান অস্ট্রেলিয়া,2025-11-27T03:34:00+00:00,Australia,0.2704772983798636,1,1,bn,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,ফ্ল্যাশ বন্যা কুইন্সল্যান্ড,2025-11-26T03:37:00+00:00,Australia,0.2704460415770781,1,1,bn,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,ভেজা বানান নিউ সাউথ ওয়েলস,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,bn,EAU,Oceania
@@ -84,8 +94,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,বৃষ্টিপাত আলবেনিয়া,2025-12-01T04:03:00+00:00,Albania,0.2604142095873037,1,1,bn,MED,Europe
 '4455655d11',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি মালদ্বীপ,2025-12-13T03:38:00+00:00,Maldives,0.2603714488866493,1,1,bn,EIO,Indian Ocean
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,সলোমন দ্বীপপুঞ্জে বৃষ্টিপাত,2025-12-11T03:46:00+00:00,Solomon Islands,0.2601501262644071,1,1,bn,EPO,Oceania
-'c72865acbd',extremes,Drought,#edc291,edo,বৃষ্টির অভাব টোগো,2025-12-08T03:45:00+00:00,Togo,0.25986632030793666,1,1,bn,WAF,Africa
-'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,নিউজিল্যান্ডে বৃষ্টি,2025-12-14T03:49:00+00:00,New Zealand,0.25977612590946675,1,1,bn,NZ,Oceania
+'c72865acbd',extremes,Drought,#edc291,edo,বৃষ্টির অভাব টোগো,2025-12-08T03:45:00+00:00,Togo,0.2598663203079366,1,1,bn,WAF,Africa
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,নিউজিল্যান্ডে বৃষ্টি,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,1,1,bn,NZ,Oceania
 '0626237bf9',extremes,Flood,#030ba1,cmeter,বন্যা তিরনা,2025-12-06T03:33:00+00:00,Albania,0.259508438602973,1,1,bn,MED,Europe
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,ঝড় উরুগুয়ে,2025-12-02T03:41:00+00:00,Uruguay,0.2591413097294335,1,1,bn,SES,South-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,হিম কানাডা,2025-11-27T03:34:00+00:00,Canada,0.2591390033931923,1,1,bn,NEN,North-America
