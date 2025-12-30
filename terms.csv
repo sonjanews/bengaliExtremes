@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4645204231',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.5084153023401976,1,1,bn,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2025-12-19T03:46:00+00:00,India,0.4359687346938727,2,1,bn,SAS,Asia
-'863f010e8b',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.4343163454256832,2,1,bn,SAS,Asia
 '6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি হচ্ছে,2025-11-30T03:46:00+00:00,India,0.4314159716758913,2,1,bn,SAS,Asia
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.4300184631288314,2,1,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2025-12-03T03:40:00+00:00,Bangladesh,0.4269002161039901,2,1,bn,SAS,Asia
@@ -10,13 +9,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলায় প্রবল বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.3725887201045224,3,1,bn,SAS,Asia
 'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গলপাট্টু জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.3685040002863567,3,1,bn,SAS,Asia
 '2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি নেলোরে তিরুপতি,2025-12-03T03:40:00+00:00,India,0.3580888529994285,3,1,bn,SAS,Asia
-'69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2025-12-02T03:41:00+00:00,Bangladesh,0.3557155840760929,2,1,bn,SAS,Asia
 'ec0c0a268e',extremes,Thunderstorm,#53785a,wmo,পুদুচেরির কারাইকাল জেলা,2025-12-07T03:47:00+00:00,India,0.3507449878247359,4,1,bn,SAS,Asia
-'8982a15e86',extremes,Wildfire,#d60d2b,wmo,wildfire Northern territory barkly North,2025-12-01T04:02:00+00:00,Australia,0.3037706234717715,0,2,bn,CAU,Oceania
-'30e79eda20',extremes,Storm,#b3b2b1,wmo,ঝড় দক্ষিণ-পূর্ব আইসল্যান্ড,2025-12-01T04:02:00+00:00,Iceland,0.3034633194315844,0,2,bn,GIC,Europe
-'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.3033033330358391,0,2,bn,SES,South-America
 '515277a569',extremes,Flood,#030ba1,wmo,যুক্তরাজ্যের বন্যা,2025-12-01T04:02:00+00:00,United Kingdom,0.3032784490610096,0,2,bn,NEU,Europe
-'cf99db758d',extremes,Fog,#d60d2b,wmo,কুয়াশা লাটভিয়া,2025-12-01T04:02:00+00:00,Latvia,0.3032550112521488,0,2,bn,WCE,Europe
+'69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2025-12-02T03:41:00+00:00,Bangladesh,0.30235824646467896,3,1,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.2756238446234494,5,1,bn,SAS,Asia
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,কোল্ডওয়েভ ভিক্টোরিয়া,2025-12-04T03:42:00+00:00,Australia,0.2692333508802405,1,1,bn,SAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,বন্যা আলবেনিয়া,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,bn,MED,Europe
@@ -25,9 +20,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,ঝড় উরুগুয়ে,2025-12-02T03:41:00+00:00,Uruguay,0.2592446518846215,1,1,bn,SES,South-America
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,সাইক্লোন সাইক্লোন অনুদান ক্যাথরিন বন্যা ট্রেন লাইনচ্যুত রাসায়নিক ছড়িয়ে পড়া,2025-12-01T04:03:00+00:00,Australia,0.2591302984579078,1,1,bn,NAU,Oceania
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ আর্জেন্টিনা,2025-12-01T04:02:00+00:00,Argentina,0.2591265669700415,1,1,bn,SES,South-America
-'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,storm surge Paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.2585432559242093,1,1,bn,SES,South-America
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,মালদ্বীপে বৃষ্টিপাত,2025-11-30T03:46:00+00:00,Maldives,0.2585325414206185,1,1,bn,EIO,Indian Ocean
+'8982a15e86',extremes,Wildfire,#d60d2b,wmo,wildfire Northern territory barkly North,2025-12-01T04:02:00+00:00,Australia,0.25820502995100575,1,1,bn,CAU,Oceania
 'ff7862e348',extremes,Drought,#edc291,edo,শুষ্কতা ভারত,2025-12-19T03:46:00+00:00,India,0.2580798227490093,2,1,bn,SAS,Asia
+'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.25780783308046323,1,1,bn,SES,South-America
+'cf99db758d',extremes,Fog,#d60d2b,wmo,কুয়াশা লাটভিয়া,2025-12-01T04:02:00+00:00,Latvia,0.2577667595643265,1,1,bn,WCE,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,wildfire russia,2025-12-07T03:47:00+00:00,Russia,0.2569624062887913,3,1,bn,ESB,Europe
 '559acde5fe',extremes,Fog,#d60d2b,wmo,কুয়াশা সার্বিয়া,2025-12-01T04:02:00+00:00,Serbia,0.2569080934577519,1,1,bn,MED,Europe
 '50a3485796',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড নরওয়ে,2025-12-01T04:02:00+00:00,Norway,0.2568742402151612,2,1,bn,NEU,Europe
@@ -62,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc8be80c47',extremes,Drought,#edc291,edo,শুষ্কতা ফ্যারো দ্বীপপুঞ্জ,2025-12-05T03:41:00+00:00,Faroe Islands,0.2198525100808949,2,1,bn,NEU,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.2198408579376766,2,1,bn,SAH,Africa
 '8be002d270',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভেনেজুয়েলা,2025-12-02T03:41:00+00:00,Venezuela,0.2197734270265161,2,1,bn,NSA,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,storm surge Paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.21976176753557788,2,1,bn,SES,South-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,তুষারপাত কানাডা,2025-12-10T03:45:00+00:00,Canada,0.2197498438290272,2,1,bn,NEN,North-America
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,নিউজিল্যান্ড শিলাবৃষ্টি,2025-12-02T03:41:00+00:00,New Zealand,0.2196685001987624,2,1,bn,NZ,Oceania
 'bf84083cec',extremes,Landslide,#572c03,wmo,ভূমিধস নরওয়ে,2025-12-10T03:45:00+00:00,Norway,0.2196322649591729,2,1,bn,NEU,Europe
