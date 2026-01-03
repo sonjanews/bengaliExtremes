@@ -1,7 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.6211867130246487,0,2,bn,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2025-11-30T03:46:00+00:00,India,0.610127761699601,0,2,bn,SAS,Asia
+'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.6066985061746754,0,2,bn,SAS,Asia
+'a8ed721e08',extremes,Fog,#d60d2b,wmo,কুয়াশা ভারত,2025-12-15T03:54:00+00:00,India,0.6020213940066004,0,2,bn,SAS,Asia
+'4688c266b3',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গালপাট্টু জেলা,2025-11-30T03:46:00+00:00,India,0.6007779176955466,0,2,bn,SAS,Asia
+'66cd4fa8fa',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেন্নাই জেলা,2025-11-30T03:46:00+00:00,India,0.5982788800130392,0,2,bn,SAS,Asia
+'4645204231',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.5981356498119972,0,2,bn,SAS,Asia
+'6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি হচ্ছে,2025-11-30T03:46:00+00:00,India,0.5971155317313375,0,2,bn,SAS,Asia
+'2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি নেলোরে তিরুপতি,2025-12-03T03:40:00+00:00,India,0.583087894157425,0,2,bn,SAS,Asia
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,মধ্যপ্রদেশের ইন্দোর জেলায় শৈত্যপ্রবাহ,2025-12-15T03:54:00+00:00,India,0.5060080965370373,1,1,bn,SAS,Asia
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.5059040742692135,1,1,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2025-12-03T03:40:00+00:00,Bangladesh,0.5022355483576355,1,1,bn,SAS,Asia
+'69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2025-12-02T03:41:00+00:00,Bangladesh,0.4923399087558379,0,2,bn,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2025-12-04T03:42:00+00:00,India,0.4354190149855728,2,1,bn,SAS,Asia
 '863f010e8b',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.4343163454256832,2,1,bn,SAS,Asia
 'eb9f67591f',extremes,Cold Wave,#a7e9fa,wmo,মধ্যপ্রদেশের ৬টি জেলায় শৈত্যপ্রবাহ,2025-12-07T03:47:00+00:00,India,0.4342641849134839,2,1,bn,SAS,Asia
@@ -20,7 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a20612e67',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ত্রিনিদাদ এবং টোবাগো,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2633964294009321,1,1,bn,NSA,North-America
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,বজ্রঝড় অস্ট্রেলিয়া,2025-12-05T03:41:00+00:00,Australia,0.2624464494174822,1,1,bn,SAU,Oceania
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,ঝড় উরুগুয়ে,2025-12-02T03:41:00+00:00,Uruguay,0.2592446518846215,1,1,bn,SES,South-America
-'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,সাইক্লোন সাইক্লোন অনুদান ক্যাথরিন বন্যা ট্রেন লাইনচ্যুত রাসায়নিক ছড়িয়ে পড়া,2025-12-01T04:03:00+00:00,Australia,0.25913029845790786,1,1,bn,NAU,Oceania
+'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,সাইক্লোন সাইক্লোন অনুদান ক্যাথরিন বন্যা ট্রেন লাইনচ্যুত রাসায়নিক ছড়িয়ে পড়া,2025-12-01T04:03:00+00:00,Australia,0.2591302984579078,1,1,bn,NAU,Oceania
 'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,বাএ অ্যাটল থেকে আলিফ আলিফ অ্যাটল পর্যন্ত বর্ষণ,2025-12-04T03:42:00+00:00,Maldives,0.2591181576804006,1,1,bn,EIO,Indian Ocean
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,wildfire russia,2025-12-07T03:47:00+00:00,Russia,0.2569624062887913,3,1,bn,ESB,Europe
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,কোল্ডওয়েভ ভিক্টোরিয়া,2025-12-04T03:42:00+00:00,Australia,0.2288483482482044,2,1,bn,SAU,Oceania
