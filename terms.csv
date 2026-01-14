@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.6211867130246487,0,2,bn,SAS,Asia
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2025-11-30T03:46:00+00:00,India,0.610127761699601,0,2,bn,SAS,Asia
-'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.6066985061746754,0,2,bn,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2025-12-04T03:42:00+00:00,India,0.6026560761045991,0,2,bn,SAS,Asia
 '863f010e8b',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.6011298898625373,0,2,bn,SAS,Asia
-'4688c266b3',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গালপাট্টু জেলা,2025-11-30T03:46:00+00:00,India,0.6007779176955466,0,2,bn,SAS,Asia
 'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গলপাট্টু জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.600047222123113,0,2,bn,SAS,Asia
 '66cd4fa8fa',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেন্নাই জেলা,2025-11-30T03:46:00+00:00,India,0.5982788800130392,0,2,bn,SAS,Asia
 '4645204231',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.5981356498119972,0,2,bn,SAS,Asia
@@ -12,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.5951812638461336,0,2,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2025-12-03T03:40:00+00:00,Bangladesh,0.590865351008983,0,2,bn,SAS,Asia
 '2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি নেলোরে তিরুপতি,2025-12-03T03:40:00+00:00,India,0.583087894157425,0,2,bn,SAS,Asia
+'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.5280087060709514,1,1,bn,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত ভারত,2025-12-07T03:47:00+00:00,India,0.5272391133889066,1,1,bn,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,হিম তরঙ্গ ভারত,2025-12-08T03:44:00+00:00,India,0.5257169834009436,1,1,bn,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2025-12-19T03:46:00+00:00,India,0.5129043937574973,1,1,bn,SAS,Asia
@@ -20,14 +17,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2025-12-02T03:41:00+00:00,Bangladesh,0.4923399087558379,0,2,bn,SAS,Asia
 'ec0c0a268e',extremes,Thunderstorm,#53785a,wmo,পুদুচেরির কারাইকাল জেলা,2025-12-07T03:47:00+00:00,India,0.4854601907608802,0,2,bn,SAS,Asia
 'b6a7c43ff9',extremes,Drought,#edc291,edo,শুষ্কতা বাংলাদেশ,2025-12-19T03:46:00+00:00,Bangladesh,0.4585564532188207,0,2,bn,SAS,Asia
-'82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2025-12-09T03:41:00+00:00,India,0.43529787002942305,0,2,bn,SAS,Asia
+'82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2025-12-09T03:41:00+00:00,India,0.435297870029423,0,2,bn,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,ঝড় ভারত,2025-12-16T03:47:00+00:00,India,0.432688905928723,2,1,bn,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2025-12-10T03:45:00+00:00,India,0.4311812545720301,2,1,bn,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ভারত,2025-12-16T03:47:00+00:00,India,0.4172482377728242,2,1,bn,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,কুয়াশা ভারত,2025-12-15T03:54:00+00:00,India,0.3697163885943034,3,1,bn,SAS,Asia
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,মধ্যপ্রদেশের ইন্দোর জেলায় শৈত্যপ্রবাহ,2025-12-15T03:54:00+00:00,India,0.3655908497480094,3,1,bn,SAS,Asia
 'e529a9043d',extremes,Fog,#d60d2b,wmo,হরিয়ানার হিসার জেলা,2025-12-19T03:46:00+00:00,India,0.364632655244112,3,1,bn,SAS,Asia
-'35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2025-12-14T03:49:00+00:00,India,0.36189403595630126,0,2,bn,SAS,Asia
+'35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2025-12-14T03:49:00+00:00,India,0.3618940359563012,0,2,bn,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2025-12-13T03:38:00+00:00,India,0.3083669728232214,1,1,bn,SAS,Asia
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,ঝড় জোনা সুর,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,bn,NWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ ব্রাজিল,2025-12-14T03:49:00+00:00,Brazil,0.2185838158588813,2,1,bn,SAM,South-America
