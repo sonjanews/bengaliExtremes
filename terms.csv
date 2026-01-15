@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'863f010e8b',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.6011298898625373,0,2,bn,SAS,Asia
-'4688c266b3',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গালপাট্টু জেলা,2025-11-30T03:46:00+00:00,India,0.6007779176955466,0,2,bn,SAS,Asia
 'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর চেঙ্গলপাট্টু জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.600047222123113,0,2,bn,SAS,Asia
 '4645204231',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর কাঞ্চিপুরম জেলা,2025-11-30T03:46:00+00:00,India,0.5981356498119972,0,2,bn,SAS,Asia
 '6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি হচ্ছে,2025-11-30T03:46:00+00:00,India,0.5971155317313375,0,2,bn,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2025-12-10T03:45:00+00:00,India,0.5967906637675159,0,2,bn,SAS,Asia
-'8ae049eb86',extremes,Precipitation,#d60d2b,wmo,তামিলনাড়ুর তিরুভাল্লুর জেলায় বৃষ্টি,2025-11-30T03:46:00+00:00,India,0.5951812638461336,0,2,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2025-12-03T03:40:00+00:00,Bangladesh,0.590865351008983,0,2,bn,SAS,Asia
 '2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি নেলোরে তিরুপতি,2025-12-03T03:40:00+00:00,India,0.583087894157425,0,2,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2025-12-09T03:41:00+00:00,Bangladesh,0.5280087060709514,1,1,bn,SAS,Asia
@@ -24,13 +21,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2025-12-13T03:38:00+00:00,India,0.3083669728232214,1,1,bn,SAS,Asia
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,ঝড় জোনা সুর,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,bn,NWS,South-America
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া মালদ্বীপ,2025-12-18T03:44:00+00:00,Maldives,0.2182448831411612,2,1,bn,EIO,Indian Ocean
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,শীতলতম বছর,2026-01-15T10:20:00+00:00,,0.14717214146114996,0,2,bn,,
-'b6cef22543',extremes,Drought,#edc291,random,জল সীমাবদ্ধতা,2026-01-15T10:20:00+00:00,,0.14669966665781384,0,2,bn,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,বায়ুমণ্ডলীয় নদী,2026-01-15T10:20:00+00:00,,0.14657695119733327,0,2,bn,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,রেকর্ড ঠান্ডা,2026-01-15T10:20:00+00:00,,0.14652936773153366,0,2,bn,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,আর্কটিক সমুদ্রের বরফ,2026-01-15T10:20:00+00:00,,0.14641731972714797,0,2,bn,,
-'0053afc92f',extremes,Volcano,#b83202,random,লাহার,2026-01-15T10:20:00+00:00,,0.14629143172280423,0,2,bn,,
-'ccefefc59e',extremes,Drought,#edc291,random,ঝলকানি খরা,2026-01-15T10:20:00+00:00,,0.14619512245492347,0,2,bn,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,টাইফুন,2026-01-15T10:20:00+00:00,,0.14609905309045487,0,2,bn,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,শীতলতম বছর,2026-01-15T10:20:00+00:00,,0.1471721414611499,0,2,bn,,
+'b6cef22543',extremes,Drought,#edc291,random,জল সীমাবদ্ধতা,2026-01-15T10:20:00+00:00,,0.1466996666578138,0,2,bn,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,বায়ুমণ্ডলীয় নদী,2026-01-15T10:20:00+00:00,,0.1465769511973332,0,2,bn,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,রেকর্ড ঠান্ডা,2026-01-15T10:20:00+00:00,,0.1465293677315336,0,2,bn,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,আর্কটিক সমুদ্রের বরফ,2026-01-15T10:20:00+00:00,,0.1464173197271479,0,2,bn,,
+'0053afc92f',extremes,Volcano,#b83202,random,লাহার,2026-01-15T10:20:00+00:00,,0.1462914317228042,0,2,bn,,
+'ccefefc59e',extremes,Drought,#edc291,random,ঝলকানি খরা,2026-01-15T10:20:00+00:00,,0.1461951224549234,0,2,bn,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,টাইফুন,2026-01-15T10:20:00+00:00,,0.1460990530904548,0,2,bn,,
 'f90601fa23',extremes,Volcano,#b83202,random,আগ্নেয়গিরির অগ্ন্যুৎপাত,2026-01-15T10:20:00+00:00,,0.1456038068151502,0,2,bn,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,হিমবাহ calving,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,2,bn,,
