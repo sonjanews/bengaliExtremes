@@ -1,10 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-01-15T12:14:00+00:00,Bangladesh,0.6264536019456417,0,2,bn,SAS,Asia
+'fc65ba09fe',extremes,Thunderstorm,#53785a,wmo,পাঞ্জাবের ১২টি জেলায় শিলাবৃষ্টি,2026-01-22T03:59:00+00:00,India,0.5871651579418624,0,2,bn,SAS,Asia
+'18eeb50f0c',extremes,Snow&Ice,#d60d2b,wmo,তুষার ভারত,2026-01-15T10:56:00+00:00,India,0.4530790137626116,0,2,bn,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2026-01-15T10:56:00+00:00,India,0.4355495598717067,2,1,bn,SAS,Asia
 '59c8193ccb',extremes,Thunderstorm,#53785a,wmo,হরিয়ানার ৭টি জেলায় শিলাবৃষ্টি,2026-01-22T03:59:00+00:00,India,0.4184649390365398,2,1,bn,SAS,Asia
 'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত পাঞ্জাবের ৭টি জেলা,2026-01-22T03:59:00+00:00,India,0.4098128332292201,2,1,bn,SAS,Asia
 '2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,উত্তরাখণ্ডের ১১টি জেলায় বরফ,2026-01-22T03:59:00+00:00,India,0.4087808312239563,2,1,bn,SAS,Asia
-'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,রাজস্থানের ৫টি জেলায় শৈত্যপ্রবাহ,2026-01-15T10:56:00+00:00,India,0.38411333493080013,3,1,bn,SAS,Asia
-'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,হরিয়ানার ৪টি জেলায় শৈত্যপ্রবাহ,2026-01-22T03:59:00+00:00,India,0.37282086851254215,3,1,bn,SAS,Asia
+'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,রাজস্থানের ৫টি জেলায় শৈত্যপ্রবাহ,2026-01-15T10:56:00+00:00,India,0.3841133349308001,3,1,bn,SAS,Asia
+'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,হরিয়ানার ৪টি জেলায় শৈত্যপ্রবাহ,2026-01-22T03:59:00+00:00,India,0.3728208685125421,3,1,bn,SAS,Asia
 'b6a7c43ff9',extremes,Drought,#edc291,edo,শুষ্কতা বাংলাদেশ,2026-01-17T03:44:00+00:00,Bangladesh,0.3653291178460061,2,1,bn,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-01-22T03:59:00+00:00,India,0.364777622917274,3,1,bn,SAS,Asia
 'da77b5167a',extremes,Earthquake,#870007,usgs,ভূমিকম্প হাইউলিয়াং,2026-01-22T03:59:00+00:00,India,0.3477944005976409,1,1,bn,SAS,Asia
@@ -12,9 +15,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,রাজস্থানের ৫টি জেলা হিমায়িত,2026-01-15T12:14:00+00:00,India,0.3263565665845067,4,1,bn,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2026-01-15T10:56:00+00:00,India,0.3262265079797526,4,1,bn,SAS,Asia
 '8437b1b153',extremes,Fog,#d60d2b,wmo,কুয়াশা nw nc ঘন কুয়াশা,2026-01-18T03:57:00+00:00,India,0.3249584705148615,3,1,bn,SAS,Asia
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,ভূমিকম্প আতকা,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,2,bn,NPO,Pacific Ocean
+'2407b3a8ab',extremes,Drought,#edc291,edo,শুষ্কতা বুরুন্ডি,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,2,bn,SEAF,Africa
 'f6ff301646',extremes,Drought,#edc291,edo,খরা সোমালিয়া,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,2,bn,NEAF,Africa
 '22045a461a',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইজু দ্বীপপুঞ্জ জাপান অঞ্চল,2026-01-15T10:56:00+00:00,,0.3195636381732957,0,2,bn,NPO,Pacific Ocean
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-01-22T03:59:00+00:00,India,0.31263692360163614,4,1,bn,SAS,Asia
+'cce4634973',extremes,Drought,#edc291,edo,শুকনো বানান কেনিয়া,2026-01-15T10:57:00+00:00,Kenya,0.31954273697374286,0,2,bn,SEAF,Africa
+'08226562a9',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফাইস,2026-01-15T10:56:00+00:00,Micronesia,0.3195394583161646,0,2,bn,NPO,Pacific Ocean
+'43540d11be',extremes,Earthquake,#870007,usgs,ভূমিকম্প আক্কেশী,2026-01-15T10:56:00+00:00,Japan,0.319536041667731,0,2,bn,EAS,Asia
+'2725619969',extremes,Earthquake,#870007,usgs,ভূমিকম্প হানাওয়া,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,2,bn,EAS,Asia
+'74236bd182',extremes,Drought,#edc291,edo,বৃষ্টির আইসল্যান্ডের অভাব,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,2,bn,GIC,Europe
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-01-22T03:59:00+00:00,India,0.3126369236016361,4,1,bn,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2026-01-15T10:57:00+00:00,India,0.305657335910114,3,1,bn,SAS,Asia
 'da87fd7743',extremes,Fog,#d60d2b,wmo,কুয়াশা অন্ধ্রপ্রদেশের এলুরু জেলা,2026-01-17T03:44:00+00:00,India,0.2826445595805717,3,1,bn,SAS,Asia
 'e529a9043d',extremes,Fog,#d60d2b,wmo,হরিয়ানার হিসার জেলা,2026-01-19T04:03:00+00:00,India,0.2804926442284432,4,1,bn,SAS,Asia
@@ -106,7 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '909be204f9',extremes,Earthquake,#870007,usgs,লয়ালটি দ্বীপের দক্ষিণ-পূর্বে ভূমিকম্প,2026-01-15T10:56:00+00:00,,0.271681119031828,1,1,bn,SPO,Pacific Ocean
 '731557e0bc',extremes,Earthquake,#870007,usgs,ভূমিকম্প তিমুর লেস্টে,2026-01-15T10:56:00+00:00,Timor Leste,0.2716806369849336,1,1,bn,SEA,Asia
 '7d68920b56',extremes,Earthquake,#870007,usgs,ভূমিকম্প নিকারাগুয়া,2026-01-15T10:56:00+00:00,Nicaragua,0.271666800542253,1,1,bn,SCA,North-America
-'1f343ea703',extremes,Earthquake,#870007,usgs,ভূমিকম্প ডগানিওল,2026-01-15T12:13:00+00:00,Turkey,0.27165526969831594,1,1,bn,MED,Asia
+'1f343ea703',extremes,Earthquake,#870007,usgs,ভূমিকম্প ডগানিওল,2026-01-15T12:13:00+00:00,Turkey,0.2716552696983159,1,1,bn,MED,Asia
 'eabe6169ab',extremes,Earthquake,#870007,usgs,ভূমিকম্প টোঙ্গা,2026-01-15T10:56:00+00:00,Tonga,0.2716416089773169,1,1,bn,SPO,Pacific Ocean
 'c42e3feacc',extremes,Earthquake,#870007,usgs,কুড়িল দ্বীপপুঞ্জের উত্তর-পশ্চিমে ভূমিকম্প,2026-01-15T10:56:00+00:00,,0.2716334907363343,1,1,bn,RFE,Asia
 'd9cc56f031',extremes,Drought,#edc291,edo,শুকনো বানান তাজিকিস্তান,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,bn,WCA,Asia
