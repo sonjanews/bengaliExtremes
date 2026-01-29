@@ -1,23 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় ভারত,2026-01-27T03:58:00+00:00,India,0.4968916026115492,1,1,bn,SAS,Asia
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় ভারত,2026-01-27T03:58:00+00:00,India,0.4223578622198168,2,1,bn,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2026-01-27T03:58:00+00:00,India,0.3533253640780384,2,1,bn,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত ভারত,2026-01-25T04:06:00+00:00,India,0.3463450752244444,3,1,bn,SAS,Asia
-'904c16f856',extremes,Drought,#edc291,edo,শুকনো বানান টোগো,2026-01-15T10:57:00+00:00,Togo,0.3193677253182152,0,2,bn,WAF,Africa
-'8daec4f52d',extremes,Earthquake,#870007,usgs,ইস্টার দ্বীপের দক্ষিণ-পূর্বে ভূমিকম্প,2026-01-15T10:56:00+00:00,,0.319365211278062,0,2,bn,SPO,Pacific Ocean
-'34fd30e809',extremes,Earthquake,#870007,usgs,ভূমিকম্প ক্যালাম,2026-01-15T10:56:00+00:00,Chile,0.3193642581749714,0,2,bn,SWS,South-America
 '617402fc79',extremes,Drought,#edc291,edo,শুষ্ক বানান ইরিত্রিয়া,2026-01-15T10:57:00+00:00,Eritrea,0.3193608056086076,0,2,bn,SAH,Africa
 '22cdaf7557',extremes,Drought,#edc291,edo,খরা মালাউই,2026-01-15T10:57:00+00:00,Malawi,0.3193558219375216,0,2,bn,ESAF,Africa
-'c7be7a383d',extremes,Earthquake,#870007,usgs,ভূমিকম্প সারঙ্গনি,2026-01-15T10:56:00+00:00,Philippines,0.319346089176954,0,2,bn,SEA,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,ঝড় ভারত,2026-01-27T03:58:00+00:00,India,0.3126428524461969,4,1,bn,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ভারত,2026-01-25T04:06:00+00:00,India,0.2967870395144697,4,1,bn,SAS,Asia
 'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত পাঞ্জাবের ৭টি জেলা,2026-01-22T03:59:00+00:00,India,0.2960897720081114,4,1,bn,SAS,Asia
 '18eeb50f0c',extremes,Snow&Ice,#d60d2b,wmo,তুষার ভারত,2026-01-15T10:56:00+00:00,India,0.2782471493269637,3,1,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-01-15T12:14:00+00:00,Bangladesh,0.2779607912180415,5,1,bn,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত ভারত,2026-01-15T10:56:00+00:00,India,0.2775220849298867,5,1,bn,SAS,Asia
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2026-01-15T10:56:00+00:00,India,0.2772925317827897,5,1,bn,SAS,Asia
 'c42e3feacc',extremes,Earthquake,#870007,usgs,কুড়িল দ্বীপপুঞ্জের উত্তর-পশ্চিমে ভূমিকম্প,2026-01-15T10:56:00+00:00,,0.2716334907363343,1,1,bn,RFE,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,খরা সোমালিয়া,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,bn,NEAF,Africa
-'22045a461a',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইজু দ্বীপপুঞ্জ জাপান অঞ্চল,2026-01-15T10:56:00+00:00,,0.2716290924473013,1,1,bn,NPO,Pacific Ocean
 '74236bd182',extremes,Drought,#edc291,edo,বৃষ্টির আইসল্যান্ডের অভাব,2026-01-15T10:57:00+00:00,Iceland,0.2716006499109582,1,1,bn,GIC,Europe
 'e1559df16c',extremes,Earthquake,#870007,usgs,ভূমিকম্প টোবেলো,2026-01-15T10:56:00+00:00,Indonesia,0.2715490218743391,1,1,bn,SEA,Asia
 '34799f2163',extremes,Drought,#edc291,edo,কঙ্গো খরা প্রজাতন্ত্র,2026-01-15T10:57:00+00:00,Republic of the Congo,0.2715338497738099,1,1,bn,CAF,Africa
@@ -25,17 +19,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f59d8a7a4',extremes,Drought,#edc291,edo,খরা আর্মেনিয়া,2026-01-15T10:57:00+00:00,Armenia,0.2715086451845088,1,1,bn,WCA,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,ভূমিকম্প মুতসু,2026-01-15T10:56:00+00:00,Japan,0.2714895119990224,1,1,bn,EAS,Asia
 'b5bfafc451',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ইউনাইটেড স্টেটস মাইনর আউটলাইং দ্বীপপুঞ্জ,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.2714888961554242,1,1,bn,WAF,Africa
-'3c0d8a70ba',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফিনশ্চফেন,2026-01-15T12:13:00+00:00,Papua New Guinea,0.2714850127907476,1,1,bn,SEA,Asia
 'f5090b53e9',extremes,Drought,#edc291,edo,শুষ্কতা ফ্রেঞ্চ পলিনেশিয়া,2026-01-15T10:57:00+00:00,French Polynesia,0.2714834200823606,1,1,bn,SPO,Pacific Ocean
-'0df507a059',extremes,Drought,#edc291,edo,শুষ্ক বানান আজারবাইজান,2026-01-15T10:57:00+00:00,Azerbaijan,0.2714767284998128,1,1,bn,WCA,Asia
 'f84e373f72',extremes,Drought,#edc291,edo,কোকোস দ্বীপে বৃষ্টির অভাব,2026-01-15T10:57:00+00:00,Cocos Islands,0.2714749304674092,1,1,bn,SIO,Indian Ocean
-'fd25f2baec',extremes,Drought,#edc291,edo,শুষ্কতা সেশেলস,2026-01-15T10:57:00+00:00,Seychelles,0.2714746018553944,1,1,bn,EIO,Indian Ocean
 '88c42e7c0f',extremes,Drought,#edc291,edo,বৃষ্টি টঙ্গার অভাব,2026-01-15T10:57:00+00:00,Tonga,0.2714711867256815,1,1,bn,SPO,Pacific Ocean
 '4c395ac77e',extremes,Drought,#edc291,edo,শুষ্কতা বুরকিনা ফাসো,2026-01-15T10:57:00+00:00,Burkina Faso,0.2714705968155138,1,1,bn,WAF,Africa
 '1918ad6f9e',extremes,Drought,#edc291,edo,খরা টুভালু,2026-01-15T10:57:00+00:00,Tuvalu,0.2714705530903767,1,1,bn,EPO,Pacific Ocean
-'bc178afc30',extremes,Drought,#edc291,edo,শুষ্কতা মরিশাস,2026-01-15T10:57:00+00:00,Mauritius,0.27146793320969814,1,1,bn,SIO,Indian Ocean
-'fada59714f',extremes,Drought,#edc291,edo,বৃষ্টির অভাব জাম্বিয়া,2026-01-15T10:57:00+00:00,Zambia,0.27146068547691127,1,1,bn,ESAF,Africa
-'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,হরিয়ানার ৪টি জেলায় শৈত্যপ্রবাহ,2026-01-22T03:59:00+00:00,India,0.2693630775003116,5,1,bn,SAS,Asia
+'bc178afc30',extremes,Drought,#edc291,edo,শুষ্কতা মরিশাস,2026-01-15T10:57:00+00:00,Mauritius,0.2714679332096981,1,1,bn,SIO,Indian Ocean
+'904c16f856',extremes,Drought,#edc291,edo,শুকনো বানান টোগো,2026-01-15T10:57:00+00:00,Togo,0.27146256652048295,1,1,bn,WAF,Africa
+'fada59714f',extremes,Drought,#edc291,edo,বৃষ্টির অভাব জাম্বিয়া,2026-01-15T10:57:00+00:00,Zambia,0.2714606854769112,1,1,bn,ESAF,Africa
+'8daec4f52d',extremes,Earthquake,#870007,usgs,ইস্টার দ্বীপের দক্ষিণ-পূর্বে ভূমিকম্প,2026-01-15T10:56:00+00:00,,0.2714604295863527,1,1,bn,SPO,Pacific Ocean
+'34fd30e809',extremes,Earthquake,#870007,usgs,ভূমিকম্প ক্যালাম,2026-01-15T10:56:00+00:00,Chile,0.27145961944872565,1,1,bn,SWS,South-America
+'c7be7a383d',extremes,Earthquake,#870007,usgs,ভূমিকম্প সারঙ্গনি,2026-01-15T10:56:00+00:00,Philippines,0.2714441758004109,1,1,bn,SEA,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত ভারত,2026-01-25T04:06:00+00:00,India,0.2686673449928926,5,1,bn,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2026-01-19T04:03:00+00:00,India,0.2683551300769094,2,1,bn,SAS,Asia
 'd6786cc958',extremes,Snow Avalanche,#deddd5,wmo,লাদাখের লেহ লাদাখ জেলায় তুষারপাত,2026-01-27T03:58:00+00:00,India,0.2678534981835892,5,1,bn,SAS,Asia
@@ -44,7 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,লাদাখের কার্গিল জেলায় তুষারপাত,2026-01-25T04:06:00+00:00,India,0.2669646820227764,5,1,bn,SAS,Asia
 'fc65ba09fe',extremes,Thunderstorm,#53785a,wmo,পাঞ্জাবের ১২টি জেলায় শিলাবৃষ্টি,2026-01-22T03:59:00+00:00,India,0.2605282998937057,5,1,bn,SAS,Asia
 'da77b5167a',extremes,Earthquake,#870007,usgs,ভূমিকম্প হাইউলিয়াং,2026-01-22T03:59:00+00:00,India,0.2512814544317955,3,1,bn,SAS,Asia
-'2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,উত্তরাখণ্ডের ১১টি জেলায় বরফ,2026-01-22T03:59:00+00:00,India,0.251042527975412,5,1,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2026-01-15T10:57:00+00:00,Bangladesh,0.2472027368445628,3,1,bn,SAS,Asia
 '62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় পাঞ্জাবের ১১টি জেলায়,2026-01-22T03:59:00+00:00,India,0.2464409538280801,4,1,bn,SAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,ভূমিকম্প মরিগাঁও,2026-01-15T10:56:00+00:00,India,0.2451358667548245,2,1,bn,SAS,Asia
@@ -59,6 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,দাবানল অরুণাচল প্রদেশ,2026-01-15T12:14:00+00:00,India,0.2357934525842522,6,1,bn,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,রাজস্থানের ৫টি জেলা হিমায়িত,2026-01-15T12:14:00+00:00,India,0.235792619357306,6,1,bn,SAS,Asia
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,হিম ভারত,2026-01-15T12:14:00+00:00,India,0.2357910435081321,6,1,bn,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2026-01-15T10:56:00+00:00,India,0.2356986520153712,6,1,bn,SAS,Asia
 '8437b1b153',extremes,Fog,#d60d2b,wmo,কুয়াশা nw nc ঘন কুয়াশা,2026-01-18T03:57:00+00:00,India,0.2347824949469873,5,1,bn,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,কুয়াশা ভারত,2026-01-15T10:56:00+00:00,India,0.234191317418108,2,1,bn,SAS,Asia
 '4609262d69',extremes,Fog,#d60d2b,wmo,কুয়াশা অন্ধ্রপ্রদেশের বাপটলা জেলা,2026-01-18T03:57:00+00:00,India,0.2321586607719835,5,1,bn,SAS,Asia
@@ -67,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a67915e02',extremes,Earthquake,#870007,usgs,ভূমিকম্প পেরু,2026-01-15T10:56:00+00:00,Peru,0.2310967276033172,2,1,bn,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,ভূমিকম্প ওলাগুয়ে,2026-01-15T10:56:00+00:00,Chile,0.2310963665696485,2,1,bn,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,ভূমিকম্প সান আগুস্টিন দে ভ্যালে ফার্টিল,2026-01-15T12:13:00+00:00,Argentina,0.2310943625019648,2,1,bn,SES,South-America
-'018b9ccc96',extremes,Earthquake,#870007,usgs,ভূমিকম্প মরিশাস পুনর্মিলন অঞ্চল,2026-01-15T10:56:00+00:00,,0.2310863357255152,2,1,bn,SIO,Indian Ocean
 '76ad379230',extremes,Earthquake,#870007,usgs,ভূমিকম্প পেট্রোপাভলভস্ক কামচাটস্কি,2026-01-15T10:56:00+00:00,Russia,0.2310858082593447,2,1,bn,RFE,Asia
 '4d51911b1d',extremes,Earthquake,#870007,usgs,ভূমিকম্প সোলা,2026-01-15T10:56:00+00:00,Vanuatu,0.2310789162016141,2,1,bn,SPO,Pacific Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,ভূমিকম্প মাবরুমা,2026-01-15T10:56:00+00:00,Guyana,0.2310775128147188,2,1,bn,NSA,South-America
@@ -83,7 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e551102071',extremes,Earthquake,#870007,usgs,ভূমিকম্প ভানুয়াতু,2026-01-15T10:56:00+00:00,Vanuatu,0.2310609781573616,2,1,bn,SPO,Pacific Ocean
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,ভূমিকম্প সান মিগুয়েল,2026-01-15T10:56:00+00:00,Ecuador,0.2310602484253391,2,1,bn,NWS,South-America
 'e6998a615e',extremes,Earthquake,#870007,usgs,ভূমিকম্প মুরঘব,2026-01-15T12:13:00+00:00,Tajikistan,0.2310590808892924,2,1,bn,WCA,Asia
-'c605f8759a',extremes,Earthquake,#870007,usgs,ভূমিকম্প গুয়াম,2026-01-15T10:56:00+00:00,Guam,0.2310574878715479,2,1,bn,NPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,ভূমিকম্প কেন্দ্রীয় মধ্য আটলান্টিক রিজ,2026-01-15T10:56:00+00:00,,0.2310572841059993,2,1,bn,EAO,Atlantic Ocean
 '70773b5956',extremes,Earthquake,#870007,usgs,ভূমিকম্প আলাস্কা,2026-01-15T10:56:00+00:00,Alaska,0.2310567373305245,2,1,bn,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইরান,2026-01-15T10:56:00+00:00,Iran,0.2310512282899902,2,1,bn,WCA,Asia
@@ -133,7 +125,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37af8de5d1',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইস্টার দ্বীপ অঞ্চল,2026-01-15T10:56:00+00:00,,0.2309548368910707,2,1,bn,SPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,ভূমিকম্প মিয়াকো,2026-01-15T10:56:00+00:00,Japan,0.230954614653359,2,1,bn,EAS,Asia
 '7a3d1676da',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফিলিপাইন,2026-01-15T10:56:00+00:00,Philippines,0.2309477475113371,2,1,bn,SEA,Asia
-'53e17b7a15',extremes,Earthquake,#870007,usgs,ভূমিকম্প হাউমা,2026-01-15T10:56:00+00:00,Tonga,0.2309446698579957,2,1,bn,SPO,Pacific Ocean
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,ভূমিকম্প কুড়িল দ্বীপপুঞ্জ,2026-01-15T10:56:00+00:00,,0.2309396760033406,2,1,bn,RFE,Asia
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,ভূমিকম্প গ্রিস,2026-01-15T10:56:00+00:00,Greece,0.2309357863793491,2,1,bn,MED,Europe
 '909be204f9',extremes,Earthquake,#870007,usgs,লয়ালটি দ্বীপের দক্ষিণ-পূর্বে ভূমিকম্প,2026-01-15T10:56:00+00:00,,0.2309289511770538,2,1,bn,SPO,Pacific Ocean
@@ -142,6 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f343ea703',extremes,Earthquake,#870007,usgs,ভূমিকম্প ডগানিওল,2026-01-15T12:13:00+00:00,Turkey,0.2309069792435684,2,1,bn,MED,Asia
 'eabe6169ab',extremes,Earthquake,#870007,usgs,ভূমিকম্প টোঙ্গা,2026-01-15T10:56:00+00:00,Tonga,0.2308953676307193,2,1,bn,SPO,Pacific Ocean
 'd9cc56f031',extremes,Drought,#edc291,edo,শুকনো বানান তাজিকিস্তান,2026-01-15T10:57:00+00:00,Tajikistan,0.2308850237033942,2,1,bn,WCA,Asia
+'22045a461a',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইজু দ্বীপপুঞ্জ জাপান অঞ্চল,2026-01-15T10:56:00+00:00,,0.23088472858020612,2,1,bn,NPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,ভূমিকম্প আক্কেশী,2026-01-15T10:56:00+00:00,Japan,0.2308647901049356,2,1,bn,EAS,Asia
 '2725619969',extremes,Earthquake,#870007,usgs,ভূমিকম্প হানাওয়া,2026-01-15T12:13:00+00:00,Japan,0.2308644761554368,2,1,bn,EAS,Asia
 '982d97b8ec',extremes,Earthquake,#870007,usgs,ভূমিকম্প সুসানভিল,2026-01-15T12:13:00+00:00,United States,0.2308371155001534,2,1,bn,WNA,North-America
@@ -165,11 +157,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '49e564d95b',extremes,Drought,#edc291,edo,খরা স্বালবার্ড এবং জ্যান মায়েন দ্বীপপুঞ্জ,2026-01-15T10:57:00+00:00,Svalbard and Jan Mayen Islands,0.2307751452184172,2,1,bn,ARO,Arctica
 '5bd3759e67',extremes,Drought,#edc291,edo,খরা প্রাচীর এবং ফুটুনা,2026-01-15T10:57:00+00:00,Wallis and Futuna,0.2307745850887961,2,1,bn,SPO,Pacific Ocean
 '9845e6aafe',extremes,Drought,#edc291,edo,খরা উত্তর মারিয়ানা দ্বীপপুঞ্জ,2026-01-15T10:57:00+00:00,Northern Mariana Islands,0.2307701775907697,2,1,bn,NPO,Pacific Ocean
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফিনশ্চফেন,2026-01-15T12:13:00+00:00,Papua New Guinea,0.23076226087213544,2,1,bn,SEA,Asia
 '99549776e6',extremes,Drought,#edc291,edo,খরা পাপুয়া নিউ গিনি,2026-01-15T10:57:00+00:00,Papua New Guinea,0.2307598890870401,2,1,bn,EPO,Pacific Ocean
 '5a7935db1c',extremes,Drought,#edc291,edo,খরা এস্বাতিনী,2026-01-15T10:57:00+00:00,Eswatini,0.2307588800047824,2,1,bn,ESAF,Africa
-'e058bc3eb7',extremes,Drought,#edc291,edo,খরা শ্রীলঙ্কা,2026-01-15T10:57:00+00:00,Sri Lanka,0.23075741449045895,2,1,bn,BOB,Asia
+'e058bc3eb7',extremes,Drought,#edc291,edo,খরা শ্রীলঙ্কা,2026-01-15T10:57:00+00:00,Sri Lanka,0.2307574144904589,2,1,bn,BOB,Asia
 'bba49c53eb',extremes,Drought,#edc291,edo,বৃষ্টির অভাব নরফোক দ্বীপ,2026-01-15T10:57:00+00:00,Norfolk Island,0.2307563813801242,2,1,bn,SPO,Pacific Ocean
-'a0374d7fc3',extremes,Drought,#edc291,edo,বৃষ্টির অভাব নাইগার,2026-01-15T10:57:00+00:00,Niger,0.23075431370259386,2,1,bn,SAH,Africa
+'0df507a059',extremes,Drought,#edc291,edo,শুষ্ক বানান আজারবাইজান,2026-01-15T10:57:00+00:00,Azerbaijan,0.23075521922484088,2,1,bn,WCA,Asia
+'a0374d7fc3',extremes,Drought,#edc291,edo,বৃষ্টির অভাব নাইগার,2026-01-15T10:57:00+00:00,Niger,0.2307543137025938,2,1,bn,SAH,Africa
+'fd25f2baec',extremes,Drought,#edc291,edo,শুষ্কতা সেশেলস,2026-01-15T10:57:00+00:00,Seychelles,0.23075341157708523,2,1,bn,EIO,Indian Ocean
+'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,হরিয়ানার ৪টি জেলায় শৈত্যপ্রবাহ,2026-01-22T03:59:00+00:00,India,0.22895861587526484,6,1,bn,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-01-22T03:59:00+00:00,India,0.225880177302182,6,1,bn,SAS,Asia
 'b6a7c43ff9',extremes,Drought,#edc291,edo,শুষ্কতা বাংলাদেশ,2026-01-17T03:44:00+00:00,Bangladesh,0.2243577444971783,5,1,bn,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-01-22T03:59:00+00:00,India,0.2240190576740708,6,1,bn,SAS,Asia
@@ -177,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2026-01-15T10:57:00+00:00,India,0.2208374251950573,5,1,bn,SAS,Asia
 '69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2026-01-24T03:49:00+00:00,Bangladesh,0.2204768171642016,4,1,bn,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2026-01-25T04:06:00+00:00,India,0.2194345161573985,6,1,bn,SAS,Asia
+'2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,উত্তরাখণ্ডের ১১টি জেলায় বরফ,2026-01-22T03:59:00+00:00,India,0.21338614877910017,6,1,bn,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2026-01-24T03:49:00+00:00,India,0.2106778235639469,3,1,bn,SAS,Asia
 '4ec651f142',extremes,Snow&Ice,#d60d2b,wmo,উত্তরাখণ্ডের ১১টি জেলায় বরফ,2026-01-21T03:56:00+00:00,India,0.208287747830184,6,1,bn,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,দাবানল উত্তরাখণ্ড,2026-01-15T10:56:00+00:00,India,0.1989279168891347,3,1,bn,SAS,Asia
@@ -184,7 +181,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45f861329d',extremes,Landslide,#572c03,aidr,ভূমিধস অ্যাডিলেড পাহাড় দক্ষিণ অস্ট্রেলিয়া,2026-01-15T10:57:00+00:00,Australia,0.1965246350001379,3,1,bn,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,অ্যামব্রিম আগ্নেয়গিরি ভানুয়াতু,2026-01-15T10:56:00+00:00,Vanuatu,0.196513102554128,3,1,bn,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,আগ্নেয়গিরি ফিলিপাইন,2026-01-15T10:56:00+00:00,Philippines,0.1965061718158696,3,1,bn,SEA,Asia
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,নদী বন্যা অস্ট্রেলিয়া,2026-01-15T10:57:00+00:00,Australia,0.19646838349419837,3,1,bn,EAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,নদী বন্যা অস্ট্রেলিয়া,2026-01-15T10:57:00+00:00,Australia,0.1964683834941983,3,1,bn,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,ভারী বৃষ্টিপাত এবং বন্যা কুইন্সল্যান্ড ফেব্রুয়ারী 2020,2026-01-15T10:57:00+00:00,Australia,0.1964676100768417,3,1,bn,EAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,ফ্ল্যাশ বন্যা অস্ট্রেলিয়া,2026-01-15T10:57:00+00:00,Australia,0.1964623509615201,3,1,bn,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,ভূমিকম্প বন্দর মাথুরিন,2026-01-15T12:13:00+00:00,Mauritius,0.1964349127749179,3,1,bn,SIO,Indian Ocean
@@ -193,23 +190,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '464d595634',extremes,Earthquake,#870007,usgs,ভূমিকম্প ক্যামিনা,2026-01-15T12:13:00+00:00,Chile,0.1964235504296383,3,1,bn,SWS,South-America
 '23ad2bb822',extremes,Earthquake,#870007,usgs,ভূমিকম্প রাশিয়া,2026-01-15T10:56:00+00:00,Russia,0.19641378904527,3,1,bn,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,ভূমিকম্প নিউজিল্যান্ড,2026-01-15T10:56:00+00:00,New Zealand,0.1964131163054723,3,1,bn,NZ,Oceania
+'c605f8759a',extremes,Earthquake,#870007,usgs,ভূমিকম্প গুয়াম,2026-01-15T10:56:00+00:00,Guam,0.19639886469081572,3,1,bn,NPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,ভূমিকম্প তাজিকিস্তান,2026-01-15T10:56:00+00:00,Tajikistan,0.1963929042252461,3,1,bn,WCA,Asia
 '85a135fac3',extremes,Earthquake,#870007,usgs,ভূমিকম্প ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.1963895750964891,3,1,bn,RFE,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,ভূমিকম্প পাপুয়া নিউ গিনি,2026-01-15T10:56:00+00:00,Papua New Guinea,0.1963754974735321,3,1,bn,SEA,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,ভূমিকম্প চিলি,2026-01-15T10:56:00+00:00,Chile,0.1963701236922874,3,1,bn,SWS,South-America
 '9de3c9007e',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইয়াকুত,2026-01-15T10:56:00+00:00,Alaska,0.1963570042997915,3,1,bn,NWN,North-America
 '90e6558608',extremes,Earthquake,#870007,usgs,ভূমিকম্প দক্ষিণ মধ্য আটলান্টিক রিজ,2026-01-15T10:56:00+00:00,,0.1963444455520945,3,1,bn,SAO,Atlantic Ocean
-'505a53d28b',extremes,Earthquake,#870007,usgs,ভূমিকম্প বন্দর ভিলা,2026-01-15T10:56:00+00:00,Vanuatu,0.19633298685059586,3,1,bn,SPO,Oceania
+'505a53d28b',extremes,Earthquake,#870007,usgs,ভূমিকম্প বন্দর ভিলা,2026-01-15T10:56:00+00:00,Vanuatu,0.1963329868505958,3,1,bn,SPO,Oceania
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,ঝড় আল হাসকেহ গভর্নরেটস,2026-01-15T10:57:00+00:00,Syria,0.1963256864490002,3,1,bn,MED,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,ভূমিকম্প ইয়েমেন,2026-01-15T12:13:00+00:00,Yemen,0.1963225949270392,3,1,bn,NEAF,Africa
+'53e17b7a15',extremes,Earthquake,#870007,usgs,ভূমিকম্প হাউমা,2026-01-15T10:56:00+00:00,Tonga,0.19630296937929634,3,1,bn,SPO,Pacific Ocean
 '485794e3d4',extremes,Earthquake,#870007,usgs,ভূমিকম্প কানাডা,2026-01-15T12:13:00+00:00,Canada,0.1962973659301249,3,1,bn,NWN,North-America
 '526ac614cf',extremes,Earthquake,#870007,usgs,ভূমিকম্প সান্তে মারি,2026-01-15T12:13:00+00:00,Martinique,0.1962940417505071,3,1,bn,CAR,North-America
 'cce4634973',extremes,Drought,#edc291,edo,শুকনো বানান কেনিয়া,2026-01-15T10:57:00+00:00,Kenya,0.1962391833439997,3,1,bn,SEAF,Africa
-'08226562a9',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফাইস,2026-01-15T10:56:00+00:00,Micronesia,0.19623716983841447,3,1,bn,NPO,Pacific Ocean
+'08226562a9',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফাইস,2026-01-15T10:56:00+00:00,Micronesia,0.1962371698384144,3,1,bn,NPO,Pacific Ocean
 '40a849aef3',extremes,Earthquake,#870007,usgs,ভূমিকম্প ঝাওটং,2026-01-15T12:13:00+00:00,China,0.1962195000868092,3,1,bn,EAS,Asia
-'0e39632695',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ইরান,2026-01-15T10:57:00+00:00,Iran,0.19619683603815036,3,1,bn,WCA,Asia
+'0e39632695',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ইরান,2026-01-15T10:57:00+00:00,Iran,0.1961968360381503,3,1,bn,WCA,Asia
 '69a64e0e6b',extremes,Drought,#edc291,edo,শুষ্কতা ইরাক,2026-01-15T10:57:00+00:00,Iraq,0.1961485525475219,3,1,bn,WCA,Asia
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,ভূমিকম্প ধিং,2026-01-15T10:56:00+00:00,India,0.1767364196565961,4,1,bn,SAS,Asia
+'018b9ccc96',extremes,Earthquake,#870007,usgs,ভূমিকম্প মরিশাস পুনর্মিলন অঞ্চল,2026-01-15T10:56:00+00:00,,0.1669598775616847,4,1,bn,SIO,Indian Ocean
 '2407b3a8ab',extremes,Drought,#edc291,edo,শুষ্কতা বুরুন্ডি,2026-01-15T10:57:00+00:00,Burundi,0.1668528158094079,4,1,bn,SEAF,Africa
 'b6cef22543',extremes,Drought,#edc291,random,জল সীমাবদ্ধতা,2026-01-15T10:20:00+00:00,,0.1246947166591417,1,1,bn,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,বায়ুমণ্ডলীয় নদী,2026-01-15T10:20:00+00:00,,0.1245904085177332,1,1,bn,,
