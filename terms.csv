@@ -1,13 +1,23 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2026-02-06T04:28:00+00:00,Bangladesh,0.5462235342143186,0,2,bn,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,ঝড় ভারত,2026-01-27T03:58:00+00:00,India,0.5090866720068342,3,1,bn,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2026-02-12T04:37:00+00:00,India,0.4409893593295178,4,1,bn,SAS,Asia
 '77a82da512',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি তদেপল্লে মণ্ডল,2026-02-11T04:41:00+00:00,India,0.4383344883085636,2,1,bn,SAS,Asia
+'3296e9a239',extremes,Flood,#030ba1,aidr,প্রবল বৃষ্টি অস্ট্রেলিয়া,2026-02-05T04:28:00+00:00,Australia,0.31566413986495473,0,2,bn,SAU,Oceania
 'd6786cc958',extremes,Snow Avalanche,#deddd5,wmo,লাদাখের লেহ লাদাখ জেলায় তুষারপাত,2026-01-27T03:58:00+00:00,India,0.3151217625689285,5,1,bn,SAS,Asia
+'a0068b2b6b',extremes,Flood,#030ba1,aidr,বন্যা বৃষ্টিপাত এবং বন্যা কুইন্সল্যান্ড ফেব্রুয়ারী 2022,2026-02-05T04:28:00+00:00,Australia,0.31275343477749096,0,2,bn,EAU,Oceania
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-01-22T03:59:00+00:00,India,0.3126369236016361,5,1,bn,SAS,Asia
+'7b672dbbe2',extremes,Earthquake,#870007,usgs,ভূমিকম্প দক্ষিণ পূর্ব প্রশান্ত মহাসাগরীয় বৃদ্ধি,2026-02-05T04:27:00+00:00,,0.3079063278340997,0,2,bn,SPO,Pacific Ocean
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ পরানা y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.3056989156200932,2,1,bn,SES,South-America
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ মন্টে কেসেরোস এবং অ্যালরেডেডোরস,2026-01-30T04:21:00+00:00,Argentina,0.3051343770897579,2,1,bn,SES,South-America
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,storm surge বাহরাইন,2026-02-10T04:43:00+00:00,Bahrain,0.305128636111951,2,1,bn,ARP,Asia
+'3aa88c5699',extremes,Thunderstorm,#53785a,wmo,ইরানের শিলাবৃষ্টি,2026-02-04T04:21:00+00:00,Iran,0.305125026816602,0,2,bn,WCA,Asia
+'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,কোস্টারিকা বর্ষণ,2026-01-30T04:21:00+00:00,Costa Rica,0.3051212206234084,0,2,bn,SCA,North-America
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2026-02-08T04:43:00+00:00,India,0.3051150636657144,2,1,bn,SAS,Asia
+'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ অস্ট্রেলিয়া,2026-02-05T04:27:00+00:00,Australia,0.305112155911064,0,2,bn,CAU,Oceania
+'55b46ae31c',extremes,Storm,#b3b2b1,wmo,তুফান নামা,2026-02-03T04:27:00+00:00,Algeria,0.3051078649584971,0,2,bn,SAH,Africa
+'b3c0051e90',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ ফর্মোসা এবং অ্যালরেডেডোরস,2026-02-06T04:27:00+00:00,Argentina,0.30510478446763706,0,2,bn,SES,South-America
+'994fe03563',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত স্লোভেনিয়া,2026-01-30T04:21:00+00:00,Slovenia,0.3050687672670658,0,2,bn,WCE,Europe
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,ভূমিকম্প ভারত,2026-02-05T04:27:00+00:00,India,0.3013935768995961,5,1,bn,WCA,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ভারত,2026-01-25T04:06:00+00:00,India,0.2967870395144697,4,1,bn,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2026-02-11T04:42:00+00:00,India,0.2770449889935086,6,1,bn,SAS,Asia
@@ -142,8 +152,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67d2701c5b',extremes,Earthquake,#870007,usgs,ভূমিকম্প ফেক,2026-02-05T04:27:00+00:00,India,0.2176057347017196,5,1,bn,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2026-01-27T03:58:00+00:00,India,0.2169859392144252,5,1,bn,SAS,Asia
 'e25c6dc644',extremes,Earthquake,#870007,usgs,ভূমিকম্প গ্যালশিং,2026-02-08T04:43:00+00:00,India,0.2076483451637501,5,1,bn,TIB,Asia
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,উত্তর আমেরিকান শীতকালীন ঝড় নিউ ইয়র্ক,2026-01-31T04:17:00+00:00,United States,0.1965246350001379,4,1,bn,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,গ্রীষ্মমন্ডলীয় ঘূর্ণিঝড় ইতালি,2026-01-28T03:57:00+00:00,Italy,0.1965246350001379,3,1,bn,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,উত্তর আমেরিকান শীতকালীন ঝড় নিউ ইয়র্ক,2026-01-31T04:17:00+00:00,United States,0.1965246350001379,4,1,bn,ENA,North-America
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-02-10T04:43:00+00:00,Bangladesh,0.1939020345661221,7,1,bn,SAS,Asia
 '55e8cccd81',extremes,Earthquake,#870007,usgs,ভূমিকম্প সান জুয়ান,2026-01-31T04:16:00+00:00,Peru,0.1937927301347757,3,1,bn,SWS,South-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,উষ্ণ বানান ভিক্টোরিয়া,2026-01-30T04:22:00+00:00,Australia,0.1937065794418765,3,1,bn,SAU,Oceania
