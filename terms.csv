@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি,2026-03-21T04:17:00+00:00,India,0.49829400412332636,0,2,bn,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত ভারত,2026-03-20T04:26:00+00:00,India,0.3881002891167717,2,1,bn,SAS,Asia
 '69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2026-03-14T04:23:00+00:00,Bangladesh,0.3485677434444509,4,1,bn,SAS,Asia
 '31ec217938',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া রায়দুর্গ মণ্ডল,2026-03-17T04:30:00+00:00,India,0.3339061217920357,4,1,bn,SAS,Asia
@@ -9,12 +10,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01eb136e2a',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি দেবরাপল্লে1 দত্তিরজেরু মণ্ডল,2026-03-17T04:30:00+00:00,India,0.3191667776737045,3,1,bn,SAS,Asia
 '3ba3704a65',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় কানেকাল মণ্ডল,2026-03-17T04:30:00+00:00,India,0.3167590069824748,4,1,bn,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,কুয়াশা ভারত,2026-03-02T04:27:00+00:00,India,0.3153009903885897,6,1,bn,SAS,Asia
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,টর্নেডো মারে রিভার টাউনশিপ ভিক্টোরিয়া 2013,2026-03-19T04:35:00+00:00,Australia,0.3130645776055947,0,2,bn,SAU,Oceania
 '628c910b11',extremes,Flood,#030ba1,aidr,বন্যার বন্যা নিউ সাউথ ওয়েলস 2022,2026-03-15T04:45:00+00:00,Australia,0.3129352914756033,1,1,bn,EAU,Oceania
-'4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-03-12T04:26:00+00:00,India,0.30926880590786837,5,1,bn,SAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-03-12T04:26:00+00:00,India,0.3092688059078683,5,1,bn,SAS,Asia
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ আর্জেন্টিনা,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,2,bn,SES,South-America
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,ভূমিকম্প ভারত,2026-03-17T04:30:00+00:00,India,0.305375474359403,1,1,bn,TIB,Asia
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,বর্ষণ আর্জেন্টিনা,2026-03-19T04:35:00+00:00,Argentina,0.3053072922849093,0,2,bn,SES,South-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত কানাডা,2026-03-20T04:26:00+00:00,Canada,0.3049227973235697,0,2,bn,NEN,North-America
 '256519f3eb',extremes,Storm,#b3b2b1,wmo,ঝড় সখিনেটিপল্লে নরসাপুরম মন্ডল,2026-03-19T04:35:00+00:00,India,0.3045687543920206,3,1,bn,SAS,Asia
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত আইসল্যান্ড,2026-03-12T04:26:00+00:00,Iceland,0.303681372497218,0,2,bn,GIC,Europe
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2026-03-13T04:25:00+00:00,India,0.3036049374763467,4,1,bn,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-03-13T04:25:00+00:00,India,0.3034728607048206,4,1,bn,SAS,Asia
+'bd5d88d4fc',extremes,Flood,#030ba1,wmo,বন্যা বতসোয়ানা,2026-03-21T04:17:00+00:00,Botswana,0.30344551282749976,0,2,bn,WSAF,Africa
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,storm surge Paraguay,2026-03-16T05:05:00+00:00,Paraguay,0.30297150193248745,0,2,bn,SES,South-America
+'0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,হারিকেন অস্ট্রেলিয়া,2026-03-17T04:30:00+00:00,Australia,0.30278349258592563,0,2,bn,CAU,Oceania
+'d04f754034',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় দক্ষিণ আফ্রিকা,2026-03-05T04:24:00+00:00,South Africa,0.3022376112572211,0,2,bn,WSAF,Africa
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,দাবানল উত্তরাখণ্ড,2026-03-11T04:22:00+00:00,India,0.3015754203377018,4,1,bn,SAS,Asia
 '8465f983bf',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ বেচার,2026-03-01T04:35:00+00:00,Algeria,0.3015733877834037,1,1,bn,SAH,Africa
 '8c8eb3f6f5',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ratlou tswaing ottosdal,2026-03-05T04:24:00+00:00,South Africa,0.3015626132725535,0,2,bn,WSAF,Africa
@@ -22,12 +32,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99fb5df225',extremes,Landslide,#572c03,wmo,ট্রমসের ওটেন এবং দক্ষিণ অংশে ভূমিধস,2026-03-19T04:35:00+00:00,Norway,0.3015388791210094,0,2,bn,NEU,Europe
 'f760624a54',extremes,Earthquake,#870007,usgs,ভূমিকম্প ভ্যালেনার,2026-03-09T04:30:00+00:00,Chile,0.3014368909630652,0,2,bn,SWS,South-America
 '816f369677',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ ক্যাটালিনা এবং সান্তা বারবারা দ্বীপপুঞ্জ,2026-03-20T04:26:00+00:00,United States,0.3014092667123609,0,2,bn,CNA,North-America
-'ad551defe3',extremes,Earthquake,#870007,usgs,ভূমিকম্প নয়া বাজার,2026-02-27T04:25:00+00:00,India,0.30077883183212983,4,1,bn,TIB,Asia
+'ad551defe3',extremes,Earthquake,#870007,usgs,ভূমিকম্প নয়া বাজার,2026-02-27T04:25:00+00:00,India,0.3007788318321298,4,1,bn,TIB,Asia
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,হিমাচল প্রদেশে দাবানল,2026-03-11T04:22:00+00:00,India,0.299926213400889,4,1,bn,SAS,Asia
 'b52307201b',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া হুকুমপেটা মণ্ডল,2026-03-16T05:05:00+00:00,India,0.2961218188565722,3,1,bn,SAS,Asia
 '7c5b048241',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় জি মদুগুলা মণ্ডল,2026-03-17T04:30:00+00:00,India,0.2822788944269827,6,1,bn,SAS,Asia
 'b8cde961fc',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া কেনেকাল মণ্ডল,2026-03-17T04:30:00+00:00,India,0.2784002392849599,5,1,bn,SAS,Asia
-'26fee806c3',extremes,Precipitation,#d60d2b,wmo,ভারতবর্ষণ,2026-03-14T04:22:00+00:00,India,0.27426228284151194,5,1,bn,SAS,Asia
+'26fee806c3',extremes,Precipitation,#d60d2b,wmo,ভারতবর্ষণ,2026-03-14T04:22:00+00:00,India,0.2742622828415119,5,1,bn,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2026-03-13T04:25:00+00:00,India,0.2730955111353048,4,1,bn,SAS,Asia
 '1924a5d780',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি রায়দুর্গ মণ্ডল,2026-03-17T04:30:00+00:00,India,0.2715421946850602,4,1,bn,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2026-03-10T04:22:00+00:00,India,0.2690285451319167,3,1,bn,SAS,Asia
@@ -49,17 +59,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1561b039fa',extremes,Earthquake,#870007,usgs,ভূমিকম্প তাকি,2026-03-02T04:27:00+00:00,India,0.2565400447056324,4,1,bn,SAS,Asia
 '7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,গ্রীষ্মমন্ডলীয় ঘূর্ণিঝড় নরেলে,2026-03-19T04:35:00+00:00,,0.2565298746389387,1,1,bn,SPO,Pacific Ocean
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত সুইজারল্যান্ড,2026-03-13T04:25:00+00:00,Switzerland,0.2564505595594766,1,1,bn,WCE,Europe
-'197e004ede',extremes,Storm,#b3b2b1,wmo,ঝড় মন্টিনিগ্রো,2026-03-20T04:26:00+00:00,Montenegro,0.25644538571840975,1,1,bn,MED,Europe
+'197e004ede',extremes,Storm,#b3b2b1,wmo,ঝড় মন্টিনিগ্রো,2026-03-20T04:26:00+00:00,Montenegro,0.2564453857184097,1,1,bn,MED,Europe
 'f9537ece5c',extremes,Iceberg,#d60d2b,eonet,আইসবার্গ c18c,2026-03-06T04:21:00+00:00,,0.2564434925478865,1,1,bn,EAN,
-'6914a1f869',extremes,Snow Avalanche,#deddd5,wmo,তুষার তুষারপাত এবং ট্রমসের দক্ষিণ অংশ,2026-03-18T04:36:00+00:00,Norway,0.25643491737943436,1,1,bn,NEU,Europe
+'6914a1f869',extremes,Snow Avalanche,#deddd5,wmo,তুষার তুষারপাত এবং ট্রমসের দক্ষিণ অংশ,2026-03-18T04:36:00+00:00,Norway,0.2564349173794343,1,1,bn,NEU,Europe
 '5f8393ea03',extremes,Storm,#b3b2b1,wmo,স্টর্ম সার্জ লিটোরাল y estribación,2026-03-12T04:26:00+00:00,Ecuador,0.2564334360665985,1,1,bn,NWS,South-America
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত ইস্টফজর্ডস,2026-03-02T04:27:00+00:00,Iceland,0.2564004560833727,1,1,bn,GIC,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,ঝড় কানাডা,2026-03-07T04:12:00+00:00,Canada,0.2563488964976335,1,1,bn,NEN,North-America
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত sør troms,2026-03-01T04:35:00+00:00,Norway,0.2563448042971351,1,1,bn,NEU,Europe
 'ca449ce618',extremes,Landslide,#572c03,wmo,ভূমিধস sørlige deler av nordland,2026-02-28T04:07:00+00:00,Norway,0.2563328462774355,1,1,bn,NEU,Europe
-'1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,avalanche indre Troms,2026-03-08T04:24:00+00:00,Norway,0.25633012897922675,1,1,bn,NEU,Europe
+'1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,avalanche indre Troms,2026-03-08T04:24:00+00:00,Norway,0.2563301289792267,1,1,bn,NEU,Europe
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,wmo,টাইফুন অস্ট্রেলিয়া,2026-03-18T04:36:00+00:00,Australia,0.256322966004583,1,1,bn,CAU,Oceania
-'3296e9a239',extremes,Flood,#030ba1,aidr,প্রবল বৃষ্টি অস্ট্রেলিয়া,2026-03-18T04:36:00+00:00,Australia,0.25632293593400624,1,1,bn,EAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,প্রবল বৃষ্টি অস্ট্রেলিয়া,2026-03-18T04:36:00+00:00,Australia,0.2563229359340062,1,1,bn,EAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,বন্যা মার্কিন যুক্তরাষ্ট্র,2026-02-28T04:07:00+00:00,United States,0.2563079836545059,1,1,bn,CNA,North-America
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,দাবানল ঝাড়খণ্ড,2026-03-11T04:22:00+00:00,India,0.2562700836835188,5,1,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-03-05T04:24:00+00:00,Bangladesh,0.2562680757430518,4,1,bn,SAS,Asia
@@ -92,7 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0769f23236',extremes,Wildfire,#d60d2b,emdat,বনের আগুন ndoubamoudou গ্রাম,2026-03-14T04:23:00+00:00,Central African Republic,0.2215407235080997,3,1,bn,CAF,Africa
 'ecbcce771c',extremes,Fog,#d60d2b,wmo,কুয়াশা অন্ধ্রপ্রদেশের ১৫টি জেলা,2026-03-13T04:25:00+00:00,India,0.2213420065238078,6,1,bn,SAS,Asia
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,ঝড় ত্রিনিদাদ এবং টোবাগো,2026-03-04T04:20:00+00:00,Trinidad and Tobago,0.2209509838594985,2,1,bn,NSA,North-America
-'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত জোতুনহেইমেন,2026-03-17T04:30:00+00:00,Norway,0.22067739077269452,2,1,bn,NEU,Europe
+'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত জোতুনহেইমেন,2026-03-17T04:30:00+00:00,Norway,0.2206773907726945,2,1,bn,NEU,Europe
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত নিউজিল্যান্ড,2026-03-06T04:21:00+00:00,New Zealand,0.2205946647018258,3,1,bn,NZ,Oceania
 '7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি সিয়েরা,2026-03-08T04:24:00+00:00,Ecuador,0.2205461946934323,3,1,bn,NWS,South-America
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,ঝড় ত্রিনিদাদ এবং টোবাগো,2026-03-15T04:45:00+00:00,Trinidad and Tobago,0.2205017312728925,2,1,bn,NSA,North-America
@@ -128,7 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7be17d2b72',extremes,Storm,#b3b2b1,wmo,ঝড় লিটারাল ওয়াই অক্সিডেন্ট ডি সিয়েরা,2026-03-01T04:35:00+00:00,Ecuador,0.2187301627910112,2,1,bn,NWS,South-America
 '0835258382',extremes,Snow&Ice,#d60d2b,wmo,ফ্রস্ট উইলিস্টন,2026-02-22T04:30:00+00:00,Canada,0.2186934916125668,2,1,bn,NEN,North-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,ল্যান্ডফল অস্ট্রেলিয়া,2026-02-26T04:29:00+00:00,Australia,0.2186846579904754,2,1,bn,EAU,Oceania
-'98dca675e7',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি মালাউই,2026-03-16T05:05:00+00:00,Malawi,0.21866290744719966,2,1,bn,ESAF,Africa
+'98dca675e7',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি মালাউই,2026-03-16T05:05:00+00:00,Malawi,0.2186629074471996,2,1,bn,ESAF,Africa
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ ব্রাজিল,2026-03-02T04:27:00+00:00,Brazil,0.2186473084468339,2,1,bn,SAM,South-America
 'dbc5704393',extremes,Precipitation,#d60d2b,wmo,মালাউই বৃষ্টি,2026-03-15T04:45:00+00:00,Malawi,0.2186140641834873,2,1,bn,ESAF,Africa
 'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,ফ্রস্ট ওয়েস্টফজর্ডস,2026-02-26T04:29:00+00:00,Iceland,0.2186107324202903,3,1,bn,GIC,Europe
@@ -139,7 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8db658717e',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড অস্ট্রেলিয়া,2026-02-25T04:32:00+00:00,Australia,0.2184690865212572,2,1,bn,CAU,Oceania
 'b1d851a406',extremes,Storm,#b3b2b1,wmo,storm surge el Bayadh,2026-03-02T04:27:00+00:00,Algeria,0.2184583062108624,2,1,bn,SAH,Africa
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 ঘূর্ণিঝড় nt ক্রান্তীয় ঘূর্ণিঝড় মার্কাস,2026-03-12T04:26:00+00:00,,0.2184520594827226,2,1,bn,NAU,Oceania
-'9c373151bb',extremes,Storm,#b3b2b1,wmo,ঝড় এরিয়া 1 - তীব্র,2026-03-19T04:35:00+00:00,Paraguay,0.21842532666431613,2,1,bn,SES,South-America
+'9c373151bb',extremes,Storm,#b3b2b1,wmo,ঝড় এরিয়া 1 - তীব্র,2026-03-19T04:35:00+00:00,Paraguay,0.2184253266643161,2,1,bn,SES,South-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,ঝড় অস্ট্রেলিয়া,2026-02-25T04:32:00+00:00,Australia,0.218422756430548,2,1,bn,CAU,Oceania
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,বরফ নিউজিল্যান্ড,2026-03-01T04:35:00+00:00,New Zealand,0.2183998968274398,2,1,bn,NZ,Oceania
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,বৃষ্টির অভাব উরুগুয়ে,2026-02-28T04:07:00+00:00,Uruguay,0.2183659394720204,3,1,bn,SES,South-America
