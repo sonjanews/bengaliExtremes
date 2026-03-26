@@ -1,5 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'519c58c063',extremes,Flood,#030ba1,wmo,বন্যা ভারত,2026-03-26T04:56:00+00:00,India,0.6044111979880632,0,2,bn,SAS,Asia
+'64cec73f31',extremes,Flood,#030ba1,wmo,আসামের বন্যা বজালি জেলা,2026-03-26T04:56:00+00:00,India,0.5646585590579684,0,2,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2026-03-23T04:42:00+00:00,Bangladesh,0.5300572383312094,2,1,bn,SAS,Asia
+'9504cbb9e3',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় শ্রীশৈলম মণ্ডল,2026-03-26T04:56:00+00:00,India,0.5254528336302653,0,2,bn,SAS,Asia
+'ef80604c0d',extremes,Flood,#030ba1,wmo,আসামের বাজালি জেলায় বন্যা,2026-03-26T04:56:00+00:00,India,0.5223454356452688,0,2,bn,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত ভারত,2026-03-09T04:31:00+00:00,India,0.5150762995899609,1,1,bn,SAS,Asia
 'c6ae9f064a',extremes,Thunderstorm,#53785a,wmo,বজ্রপাতের আলো,2026-03-25T04:33:00+00:00,India,0.507551307440414,0,2,bn,SAS,Asia
 '0c3100212d',extremes,Earthquake,#870007,usgs,ভূমিকম্প বাংলাদেশ,2026-03-08T04:24:00+00:00,Bangladesh,0.4480508394459371,3,1,bn,SAS,Asia
@@ -9,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc4a4faebb',extremes,Heat Wave,#c40202,wmo,গুজরাটের ৫টি জেলায় তাপপ্রবাহ,2026-03-11T04:22:00+00:00,India,0.3270773044042183,4,1,bn,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ভারত,2026-03-17T04:30:00+00:00,India,0.3242867726583151,3,1,bn,SAS,Asia
 '3ba3704a65',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় কানেকাল মণ্ডল,2026-03-17T04:30:00+00:00,India,0.3167590069824748,4,1,bn,SAS,Asia
+'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,ক্রান্তীয় ঘূর্ণিঝড় 28p,2026-03-24T04:31:00+00:00,,0.31564446099843957,0,2,bn,SPO,Pacific Ocean
 'dba9977fc1',extremes,Drought,#edc291,edo,ফ্যারো দ্বীপে বৃষ্টির অভাব,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,2,bn,NEU,Europe
 'ed806b22f8',extremes,Drought,#edc291,edo,শুষ্কতা ভুটান,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,2,bn,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,শুষ্ক বানান সুরিনাম,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,2,bn,NSA,South-America
@@ -16,7 +21,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,ফ্রস্ট ব্রেজেনজ,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,2,bn,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,storm surge wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,2,bn,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,ঝড় নিউজিল্যান্ড,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,2,bn,NZ,Oceania
+'ddcce350d3',extremes,Storm,#b3b2b1,wmo,ঝড় অকল্যান্ড এবং গ্রেট ব্যারিয়ার দ্বীপ,2026-03-26T04:56:00+00:00,New Zealand,0.30728467476872445,0,2,bn,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,2,bn,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,হিম চেকিয়া,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,2,bn,WCE,Europe
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,ফ্রস্ট ওবারওয়ার্ট,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,2,bn,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত শোয়াজ,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,2,bn,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,storm surge mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,2,bn,WCE,Europe
@@ -24,10 +31,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,2,bn,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,storm surge reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,2,bn,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,storm surge lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,2,bn,WCE,Europe
-'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,ঝড় স্পিটাল এবং ডের ড্রাউ,2026-03-25T04:33:00+00:00,Austria,0.30694846495075995,0,2,bn,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,ঝড় স্পিটাল এবং ডের ড্রাউ,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,2,bn,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,ঝড় আয়ারল্যান্ড,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,2,bn,NEU,Europe
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,ঝড় আয়ারল্যান্ড,2026-03-25T04:33:00+00:00,Ireland,0.3069039455676365,0,2,bn,NEU,Europe
-'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,বরফ হ্যালিন,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,2,bn,WCE,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,বরফ হ্যালিন,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,2,bn,WCE,Europe
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,সৌদি আরবের ঝড়,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,2,bn,ARP,Asia
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,ঝড় উত্তর মেসিডোনিয়া,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,2,bn,MED,Europe
+'25908560bf',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত সৌদি আরব,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,2,bn,ARP,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,,2026-03-22T04:33:00+00:00,Jamaica,0.3060953771816328,0,2,bn,CAR,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত কানাডা,2026-03-20T04:26:00+00:00,Canada,0.3049227973235697,1,1,bn,NEN,North-America
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া বতসোয়ানা,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,2,bn,WSAF,Africa
