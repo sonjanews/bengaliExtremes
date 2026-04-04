@@ -96,7 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,ঝড় ইসরাইল,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,2,bn,MED,Asia
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,সিয়েরা নর্তে ওয়াই সেন্ট্রো নামক বর্ষণ,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,2,bn,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ইকুয়েডর,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,2,bn,NWS,South-America
-'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ পরানা y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.30534700002184717,0,2,bn,SES,South-America
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ পরানা y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.3053470000218471,0,2,bn,SES,South-America
 '5b66901fd7',extremes,Wildfire,#d60d2b,wmo,wildfire kareeberg vanwyksvlei,2026-03-31T04:59:00+00:00,South Africa,0.305339804916354,0,2,bn,WSAF,Africa
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ইকুয়েডর,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,2,bn,NWS,South-America
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ মস্কো,2026-04-01T05:12:00+00:00,Russia,0.3051991349493278,0,2,bn,ESB,Europe
@@ -112,8 +112,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি লিটোরাল নর্তে ই অভ্যন্তরীণ,2026-04-01T05:12:00+00:00,Ecuador,0.3046660862365147,0,2,bn,NWS,South-America
 '7c39867b86',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ভ্লাদিমির অঞ্চল,2026-03-28T04:33:00+00:00,Russia,0.3046584160208917,0,2,bn,ESB,Europe
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,তুষার ব্লিডা,2026-03-29T05:00:00+00:00,Algeria,0.3045986241432377,0,2,bn,SAH,Africa
-'f85bf58878',extremes,Wildfire,#d60d2b,wmo,দাবানল বেইজিং,2026-03-28T04:33:00+00:00,China,0.30456860296322635,0,2,bn,EAS,Asia
-'6a584d641c',extremes,Landslide,#572c03,wmo,মাটি ধসে লুশান শহর,2026-03-28T04:33:00+00:00,China,0.30456394536837755,0,2,bn,EAS,Asia
+'f85bf58878',extremes,Wildfire,#d60d2b,wmo,দাবানল বেইজিং,2026-03-28T04:33:00+00:00,China,0.3045686029632263,0,2,bn,EAS,Asia
+'6a584d641c',extremes,Landslide,#572c03,wmo,মাটি ধসে লুশান শহর,2026-03-28T04:33:00+00:00,China,0.3045639453683775,0,2,bn,EAS,Asia
+'cf99db758d',extremes,Fog,#d60d2b,wmo,কুয়াশা লাটভিয়া,2026-03-20T04:26:00+00:00,Latvia,0.30451688563558293,0,2,bn,WCE,Europe
+'7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় কাতার,2026-03-28T04:33:00+00:00,Qatar,0.3044926274014642,0,2,bn,ARP,Asia
+'9c446693a2',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি আলজেরিয়া,2026-04-01T05:12:00+00:00,Algeria,0.3044901880471763,0,2,bn,SAH,Africa
+'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ ভ্লাদিমির অঞ্চল,2026-04-01T05:12:00+00:00,Russia,0.3044761245662344,0,2,bn,ESB,Europe
+'78e909d3d3',extremes,Flood,#030ba1,wmo,বন্যা ইসরাইল,2026-03-21T04:17:00+00:00,Israel,0.3044747799722631,0,2,bn,MED,Asia
+'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,দক্ষিণ আফ্রিকায় বর্ষণ,2026-04-03T04:43:00+00:00,South Africa,0.304384035825092,0,2,bn,WSAF,Africa
+'8a3ed6b772',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ রিয়াজান অঞ্চল,2026-04-01T05:12:00+00:00,Russia,0.3043731521621845,0,2,bn,ESB,Europe
+'3dea46c095',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ইউনাইটেড স্টেটস,2026-03-24T04:31:00+00:00,United States,0.3043673686149204,0,2,bn,CNA,North-America
+'ce4931e51e',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড দক্ষিণ অস্ট্রেলিয়া কুপার ক্রিক,2026-03-17T04:30:00+00:00,Australia,0.30428829502313165,0,2,bn,CAU,Oceania
+'0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,wildfire china,2026-03-17T04:30:00+00:00,China,0.30425366771871043,0,2,bn,EAS,Asia
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া বতসোয়ানা,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,2,bn,WSAF,Africa
 'b265b66e10',extremes,Snow&Ice,#d60d2b,wmo,হিম মন্টিনিগ্রো,2026-03-26T04:56:00+00:00,Montenegro,0.3037078038480194,0,2,bn,MED,Europe
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2026-03-13T04:25:00+00:00,India,0.3036049374763467,4,1,bn,SAS,Asia
