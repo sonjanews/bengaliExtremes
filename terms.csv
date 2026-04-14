@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-03-26T04:56:00+00:00,Bangladesh,0.7702913128158734,0,2,bn,SAS,Asia
+'69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2026-04-03T04:43:00+00:00,Bangladesh,0.7009684348927644,0,2,bn,SAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-04-02T04:42:00+00:00,India,0.6136239142525758,0,2,bn,SAS,Asia
+'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,তাপপ্রবাহ 53 মন্ডল,2026-04-03T04:43:00+00:00,India,0.6108526930842784,0,2,bn,SAS,Asia
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ ভারত,2026-04-03T04:43:00+00:00,India,0.610328619565795,0,2,bn,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,wildfire India,2026-04-03T04:43:00+00:00,India,0.6097726212273217,0,2,bn,SAS,Asia
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,দাবানল অন্ধ্রপ্রদেশ,2026-04-03T04:43:00+00:00,India,0.6095591157266924,0,2,bn,SAS,Asia
+'f986239716',extremes,Wildfire,#d60d2b,wmo,wildfire gujarat,2026-04-03T04:43:00+00:00,India,0.6094620844013133,0,2,bn,SAS,Asia
+'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,wildfire uttar pradesh,2026-04-03T04:43:00+00:00,India,0.6085398935953208,0,2,bn,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire মধ্যপ্রদেশ,2026-04-03T04:43:00+00:00,India,0.6085340336161509,0,2,bn,SAS,Asia
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,storm surge solapur,2026-04-03T04:43:00+00:00,India,0.6079986680357546,0,2,bn,SAS,Asia
 '604b1e160a',extremes,Heat Wave,#c40202,wmo,তাপপ্রবাহ 33 মন্ডল,2026-04-04T04:30:00+00:00,India,0.6077106234028132,0,2,bn,SAS,Asia
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,দাবানল কেরালা,2026-03-29T05:00:00+00:00,India,0.6068684777444701,0,2,bn,SAS,Asia
@@ -377,7 +387,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7e98968c0',extremes,Cold Wave,#a7e9fa,wmo,হিমায়িত হামি শহর,2026-03-12T04:26:00+00:00,China,0.3012303417424658,0,2,bn,EAS,Asia
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,ক্রান্তীয় ঘূর্ণিঝড় ইন্দুসা,2026-04-03T04:42:00+00:00,,0.2693132651609476,1,1,bn,SIO,Indian Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,বজ্রঝড় অস্ট্রেলিয়া,2026-03-19T04:35:00+00:00,Australia,0.2682049295787759,1,1,bn,EAU,Oceania
-'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,গ্রীষ্মমন্ডলীয় ঝড় সিনলাকু,2026-04-11T04:34:00+00:00,,0.26710985567874357,1,1,bn,NPO,Pacific Ocean
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,গ্রীষ্মমন্ডলীয় ঝড় সিনলাকু,2026-04-11T04:34:00+00:00,,0.2671098556787435,1,1,bn,NPO,Pacific Ocean
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,টর্নেডো মারে রিভার টাউনশিপ ভিক্টোরিয়া 2013,2026-03-19T04:35:00+00:00,Australia,0.2661048909647555,1,1,bn,SAU,Oceania
 '628c910b11',extremes,Flood,#030ba1,aidr,বন্যার বন্যা নিউ সাউথ ওয়েলস 2022,2026-03-15T04:45:00+00:00,Australia,0.2659949977542628,2,1,bn,EAU,Oceania
 '9969e8e386',extremes,Flood,#030ba1,emdat,বন্যা কেন্দ্রীয় অঞ্চল,2026-03-24T04:32:00+00:00,Kenya,0.264512410425559,1,1,bn,SEAF,Africa
@@ -391,7 +401,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,storm surge wien währing,2026-03-25T04:33:00+00:00,Austria,0.2612243350477424,1,1,bn,WCE,Europe
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,storm United Kingdom,2026-04-03T04:43:00+00:00,United Kingdom,0.2610442426579955,1,1,bn,NEU,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,ঝড় আর্জেন্টিনা,2026-03-17T04:30:00+00:00,Argentina,0.2608332947362946,1,1,bn,SES,South-America
-'2b54723d48',extremes,Precipitation,#d60d2b,wmo,আমাজনিয়া বর্ষণ,2026-03-31T04:59:00+00:00,Ecuador,0.25998622618383127,1,1,bn,NWS,South-America
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,আমাজনিয়া বর্ষণ,2026-03-31T04:59:00+00:00,Ecuador,0.2599862261838312,1,1,bn,NWS,South-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,তুষারপাত ফ্রান্স,2026-03-17T04:30:00+00:00,France,0.2597718022647742,1,1,bn,WCE,Europe
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,ভূমিকম্প ভারত,2026-03-17T04:30:00+00:00,India,0.2595691532054925,2,1,bn,TIB,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,বর্ষণ আর্জেন্টিনা,2026-03-19T04:35:00+00:00,Argentina,0.2595111984421729,2,1,bn,SES,South-America
