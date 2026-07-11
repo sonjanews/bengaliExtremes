@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b86d3e50a7',extremes,Storm,#b3b2b1,wmo,ঝড় বাপতলা থেকে নিজামপত্তনম,2026-07-11T05:27:00+00:00,India,0.5306750215827799,0,2,bn,SAS,Asia
+'62e08f7136',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি মাঝারি বৃষ্টিপাত,2026-07-11T05:27:00+00:00,India,0.4933856894832725,0,2,bn,SAS,Asia
+'f302e376d8',extremes,Thunderstorm,#53785a,wmo,ত্রিপুরার বজ্রঝড় ধলাই খোয়াই জেলায়,2026-07-11T05:27:00+00:00,India,0.41391518450850384,0,2,bn,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,বন্যা মনু কৈলাশহর উনাকোটি ত্রিপুরা,2026-07-09T06:27:00+00:00,India,0.3532254944996029,3,1,bn,SAS,Asia
 '82d11264c2',extremes,Thunderstorm,#53785a,wmo,উত্তরাখণ্ডের হরিদ্বার জেলায় তীব্র আবহাওয়া,2026-07-10T06:27:00+00:00,India,0.3527195198534816,2,1,bn,SAS,Asia
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি কিছু অংশ,2026-07-09T06:27:00+00:00,India,0.348584330273909,2,1,bn,SAS,Asia
@@ -17,12 +20,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90522631da',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত ভারত,2026-07-03T06:09:00+00:00,India,0.3169757495502636,4,1,bn,SAS,Asia
 '1b2c06d72e',extremes,Precipitation,#d60d2b,wmo,হরিয়ানার যমুনানগর জেলায় বৃষ্টিপাত,2026-07-10T06:27:00+00:00,India,0.3169306194284509,3,1,bn,SAS,Asia
 '0ad7f1891f',extremes,Storm,#b3b2b1,wmo,storm surge sss parigi mandal,2026-06-14T07:07:00+00:00,India,0.313770696084954,3,1,bn,SAS,Asia
-'891bde534c',extremes,Landslide,#572c03,wmo,ভূমিধস ভারত,2026-07-06T06:52:00+00:00,India,0.31190818478580556,4,1,bn,SAS,Asia
+'891bde534c',extremes,Landslide,#572c03,wmo,ভূমিধস ভারত,2026-07-06T06:52:00+00:00,India,0.3119081847858055,4,1,bn,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,ভারত বন্যা,2026-07-01T06:52:00+00:00,India,0.3104938272741679,5,1,bn,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-06-30T06:39:00+00:00,India,0.3080313365475445,4,1,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2026-07-08T05:37:00+00:00,Bangladesh,0.3072758787780165,3,1,bn,SAS,Asia
-'70d1c51890',extremes,Thunderstorm,#53785a,wmo,উত্তরাখণ্ডের দেরাদুন জেলায় তীব্র আবহাওয়া,2026-07-06T06:52:00+00:00,India,0.30361520303489814,4,1,bn,SAS,Asia
+'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,হারিকেন ফিলিপাইন,2026-06-23T06:33:00+00:00,Philippines,0.3071944590274551,0,2,bn,SEA,Asia
+'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি,2026-07-11T05:27:00+00:00,Ecuador,0.30669448746527783,0,2,bn,NWS,South-America
+'70d1c51890',extremes,Thunderstorm,#53785a,wmo,উত্তরাখণ্ডের দেরাদুন জেলায় তীব্র আবহাওয়া,2026-07-06T06:52:00+00:00,India,0.3036152030348981,4,1,bn,SAS,Asia
 'dbbdd348c3',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি দক্ষিণ দিনাজপুর,2026-07-08T05:37:00+00:00,India,0.3031618785198801,4,1,bn,SAS,Asia
+'8739ef25d6',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ পর্তুগাল,2026-07-10T06:27:00+00:00,Portugal,0.3026543076533438,0,2,bn,MED,Europe
+'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,বরফ অস্ট্রেলিয়া,2026-06-26T06:36:00+00:00,Australia,0.30190565034629724,0,2,bn,CAU,Oceania
+'62e6cb1b6a',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি hgo pue tlax,2026-07-11T05:27:00+00:00,Mexico,0.30106401923693504,0,2,bn,NCA,North-America
+'fc89d99879',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ attawapiskat ফোর্ট আলবানী মুসোনি,2026-07-06T06:52:00+00:00,Canada,0.3010377238105338,0,2,bn,NEN,North-America
+'5834c8ea07',extremes,Precipitation,#d60d2b,wmo,কুইটো বর্ষণ,2026-07-11T05:27:00+00:00,Ecuador,0.30103293942760007,0,2,bn,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,হিম আর্জেন্টিনা,2026-06-30T06:39:00+00:00,Argentina,0.3009576774288966,2,1,bn,SES,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,বরফ নিউজিল্যান্ড,2026-06-24T06:30:00+00:00,New Zealand,0.3001755418663507,0,2,bn,NZ,Oceania
 '3484a124a1',extremes,Storm,#b3b2b1,wmo,ঝড় 05 05 মি 06,2026-07-05T06:25:00+00:00,Chile,0.3001277935326409,0,2,bn,SWS,South-America
@@ -71,15 +81,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি আর্জেন্টিনা,2026-07-09T06:27:00+00:00,Argentina,0.2562223060486188,1,1,bn,SES,South-America
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত নিউজিল্যান্ড,2026-06-24T06:30:00+00:00,New Zealand,0.2561774290111962,1,1,bn,NZ,Oceania
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ ইথিওপিয়া,2026-07-08T05:37:00+00:00,Ethiopia,0.2559271008688391,1,1,bn,NEAF,Africa
-'72fa239364',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি না পাপ,2026-07-10T06:27:00+00:00,Mexico,0.25577256827122236,1,1,bn,NCA,North-America
+'72fa239364',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি না পাপ,2026-07-10T06:27:00+00:00,Mexico,0.2557725682712223,1,1,bn,NCA,North-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,ঝড় ত্রিনিদাদ এবং টোবাগো,2026-07-08T05:37:00+00:00,Trinidad and Tobago,0.2557546999506893,1,1,bn,NSA,North-America
-'1c7749f12f',extremes,Storm,#b3b2b1,wmo,ঝড় সেশেলস,2026-07-07T06:30:00+00:00,Seychelles,0.25568431706831857,1,1,bn,EIO,Africa
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,ঝড় কানাডা,2026-07-06T06:52:00+00:00,Canada,0.25563862511774604,1,1,bn,NEN,North-America
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,ঝড় সেশেলস,2026-07-07T06:30:00+00:00,Seychelles,0.2556843170683185,1,1,bn,EIO,Africa
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,ঝড় কানাডা,2026-07-06T06:52:00+00:00,Canada,0.255638625117746,1,1,bn,NEN,North-America
 '9d70153cdd',extremes,Precipitation,#d60d2b,wmo,বর্ষণ মালি,2026-07-04T05:59:00+00:00,Mali,0.2553731529167332,1,1,bn,SAH,Africa
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,ফ্রস্ট মিলফোর্ড রোড sh94,2026-07-04T05:59:00+00:00,New Zealand,0.2553635565522202,1,1,bn,NZ,Oceania
 '065a68d42d',extremes,Storm,#b3b2b1,wmo,storm surge মরিশাস,2026-07-08T05:37:00+00:00,Mauritius,0.2552709865545682,1,1,bn,SIO,Africa
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,হারিকেন মার্কিন যুক্তরাষ্ট্র,2026-07-04T05:59:00+00:00,United States,0.2551883936676858,2,1,bn,CNA,North-America
-'8ec3c413ed',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড কিলারনির উত্তরে পেম্বিনা নদী,2026-07-08T05:37:00+00:00,Canada,0.25515785733231033,2,1,bn,NEN,North-America
+'8ec3c413ed',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড কিলারনির উত্তরে পেম্বিনা নদী,2026-07-08T05:37:00+00:00,Canada,0.2551578573323103,2,1,bn,NEN,North-America
 'fb2669902d',extremes,Wildfire,#d60d2b,wmo,দাবানল সামরা অঞ্চল,2026-06-17T07:33:00+00:00,Russia,0.2547888193621131,1,1,bn,ESB,Europe
 '6eb74257af',extremes,Storm,#b3b2b1,wmo,কুয়েতের তুফান রাজ্য,2026-06-16T08:27:00+00:00,Kuwait,0.2547880772981485,1,1,bn,ARP,Asia
 '6594d97d36',extremes,Flood,#030ba1,wmo,বন্যা ব্রহ্মপুত্র ধুবড়ি ধুবরি আসাম,2026-07-02T06:24:00+00:00,India,0.2536206136121134,5,1,bn,SAS,Asia
@@ -103,7 +113,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,তুষার আর্জেন্টিনা,2026-06-16T08:27:00+00:00,Argentina,0.2234753808057773,3,1,bn,SES,South-America
 'fe2660794a',extremes,Iceberg,#d60d2b,eonet,আইসবার্গ d35,2026-06-24T06:29:00+00:00,,0.2233339550721511,2,1,bn,EAN,
 '6977541e84',extremes,Drought,#edc291,edo,খরা মাদাগাস্কার,2026-06-25T06:32:00+00:00,Madagascar,0.2233208518279511,2,1,bn,MDG,Africa
-'8d298839a5',extremes,Precipitation,#d60d2b,wmo,ডাউনপাউর ট্যাম্প ver,2026-07-10T06:27:00+00:00,Mexico,0.22197261699958878,2,1,bn,NCA,North-America
+'8d298839a5',extremes,Precipitation,#d60d2b,wmo,ডাউনপাউর ট্যাম্প ver,2026-07-10T06:27:00+00:00,Mexico,0.2219726169995887,2,1,bn,NCA,North-America
 '7061c4812e',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি কমলা,2026-07-01T06:52:00+00:00,India,0.2218354397750787,4,1,bn,SAS,Asia
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,কুয়াশা ওমস্ক অঞ্চল,2026-06-17T07:33:00+00:00,Russia,0.221419888335186,2,1,bn,ESB,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,খরা নিরক্ষীয় গিনি,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.2214001098993341,3,1,bn,WAF,Africa
