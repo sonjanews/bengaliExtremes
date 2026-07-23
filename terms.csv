@@ -1,7 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b59e604b00',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় দেরাদুন জেলা,2026-07-04T05:59:00+00:00,India,0.41886867970294406,3,1,bn,SAS,Asia
+'b59e604b00',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় দেরাদুন জেলা,2026-07-04T05:59:00+00:00,India,0.418868679702944,3,1,bn,SAS,Asia
 '5e6fb49c21',extremes,Flood,#030ba1,wmo,বন্যা বরাক এপি ঘাট কাছাড় আসাম,2026-07-22T05:35:00+00:00,India,0.40190522764331,3,1,bn,SAS,Asia
-'a843de13bd',extremes,Storm,#b3b2b1,wmo,উত্তরাখণ্ডের ঝড় জেলাগুলি,2026-07-21T05:36:00+00:00,India,0.37270656998713986,3,1,bn,SAS,Asia
+'ab6fcdc789',extremes,Thunderstorm,#53785a,wmo,উত্তরাখণ্ডের বজ্রঝড় জেলা,2026-07-22T05:35:00+00:00,India,0.3839388502458043,0,2,bn,SAS,Asia
+'a843de13bd',extremes,Storm,#b3b2b1,wmo,উত্তরাখণ্ডের ঝড় জেলাগুলি,2026-07-21T05:36:00+00:00,India,0.3727065699871398,3,1,bn,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় ভারত,2026-06-30T06:39:00+00:00,India,0.3712652055400229,4,1,bn,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-06-30T06:39:00+00:00,India,0.3686134789484804,5,1,bn,SAS,Asia
 '5f96697814',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত মাইপুরী,2026-07-01T06:52:00+00:00,India,0.3642857593644864,3,1,bn,SAS,Asia
@@ -24,9 +25,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,বন্যা দিখৌ শিবসাগর শিবসাগর আসাম,2026-07-20T05:54:00+00:00,India,0.310449304307461,4,1,bn,SAS,Asia
 '45897d39ee',extremes,Precipitation,#d60d2b,wmo,বর্ষণ গ্রহণ করা,2026-07-16T05:25:00+00:00,India,0.3068320595552434,4,1,bn,SAS,Asia
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া আলজেরিয়া,2026-07-02T06:24:00+00:00,Algeria,0.3057708344779594,1,1,bn,SAH,Africa
+'16664cc668',extremes,Heat Wave,#c40202,wmo,তাপ তরঙ্গ ভার্জাস্কা,2026-07-08T05:37:00+00:00,Switzerland,0.30234049742980673,0,2,bn,WCE,Europe
+'4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি সৌদি আরব,2026-07-14T05:14:00+00:00,Saudi Arabia,0.30213450311244294,0,2,bn,ARP,Asia
 '53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,দাবানল ইরকুটস্ক অঞ্চল,2026-07-05T06:25:00+00:00,Russia,0.3019547423495157,1,1,bn,ESB,Europe
 'd0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,ঝড় কুয়েত,2026-07-15T05:15:00+00:00,Kuwait,0.3017512877806941,1,1,bn,ARP,Asia
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,সৌদি আরব মুষলধারে বৃষ্টি,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3017326281473022,1,1,bn,ARP,Asia
+'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ আলজেরিয়া,2026-07-05T06:25:00+00:00,Algeria,0.30139356084213964,0,2,bn,SAH,Africa
+'c779108988',extremes,Wildfire,#d60d2b,wmo,দাবানল স্লোভেনিয়া কেন্দ্রীয়,2026-07-11T05:27:00+00:00,Slovenia,0.30134789305160675,0,2,bn,WCE,Europe
+'aab7909052',extremes,Fog,#d60d2b,wmo,কুয়াশা ইসরাইল,2026-07-02T06:24:00+00:00,Israel,0.30125251803716097,0,2,bn,MED,Asia
+'d1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত منطقة منطقة مكة المكرمة الطائف,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3012255510132959,0,2,bn,ARP,Asia
+'87ce5fed51',extremes,Drought,#edc291,edo,শুষ্কতা মন্টিনিগ্রো,2026-07-18T05:10:00+00:00,Montenegro,0.30122474867794513,0,2,bn,MED,Europe
+'3a67915e02',extremes,Earthquake,#870007,usgs,ভূমিকম্প পেরু,2026-07-18T05:10:00+00:00,Peru,0.3011985889611739,0,2,bn,SAM,South-America
+'468cd6b554',extremes,Storm,#b3b2b1,wmo,ঝড় ওয়েস্টফজর্ডস,2026-07-12T05:43:00+00:00,Iceland,0.30117404730633296,0,2,bn,GIC,Europe
 '1c94b4639d',extremes,Flood,#030ba1,wmo,বন্যা মনু কৈলাশহর উনাকোটি ত্রিপুরা,2026-07-09T06:27:00+00:00,India,0.3002416703246624,5,1,bn,SAS,Asia
 'c885bd6875',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া কেএসএম ইপোলাভারম মন্ডল,2026-07-18T05:10:00+00:00,India,0.2917463119172465,2,1,bn,SAS,Asia
 'e9f3d3cb84',extremes,Flood,#030ba1,wmo,বন্যা সংকোষ গোলোকগঞ্জ ধুবরি আসাম,2026-07-15T05:15:00+00:00,India,0.2898217222348079,4,1,bn,SAS,Asia
