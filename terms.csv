@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c88b14a991',extremes,Flood,#030ba1,emdat,বন্যা বাংলাদেশ,2026-07-30T05:24:00+00:00,Bangladesh,0.3189911304065236,5,1,bn,SAS,Asia
-'652ef7277f',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া সুলতানপুর অযোধ্যা আম্বেদকর নগর,2026-08-04T05:32:00+00:00,India,0.3165698840347015,3,1,bn,SAS,Asia
-'778d256165',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ভারত,2026-08-12T04:23:00+00:00,India,0.3128872750435434,4,1,bn,SAS,Asia
 '41732ed753',extremes,Flood,#030ba1,wmo,বন্যা পিথোরাগড় জেলা,2026-08-17T03:28:00+00:00,India,0.3050231584353393,4,1,bn,SAS,Asia
 '2be3d3459b',extremes,Precipitation,#d60d2b,wmo,কেরালার ওয়েনাদ জেলায় বর্ষণ,2026-08-01T05:42:00+00:00,India,0.2931824916516444,5,1,bn,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-08-11T04:01:00+00:00,India,0.2903215575873709,5,1,bn,SAS,Asia
@@ -9,13 +6,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86457154b0',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ সুন্দরগাদা কেন্দুঝাড়,2026-08-13T04:26:00+00:00,India,0.2777131295650272,4,1,bn,SAS,Asia
 '3d7ac448d0',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি দেরাদুন তেহরি পাউরি,2026-08-18T03:24:00+00:00,India,0.2760988856782405,4,1,bn,SAS,Asia
 'ba5e4ccff8',extremes,Precipitation,#d60d2b,wmo,বর্ষণ হরিদ্বার পৌরি নৈনিতাল আমাদের নগর,2026-08-18T03:24:00+00:00,India,0.2725968880400629,4,1,bn,SAS,Asia
-'82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2026-08-01T05:42:00+00:00,India,0.2718540386768468,3,1,bn,SAS,Asia
+'652ef7277f',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া সুলতানপুর অযোধ্যা আম্বেদকর নগর,2026-08-04T05:32:00+00:00,India,0.26908440142949624,4,1,bn,SAS,Asia
 'cd8ddf4958',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় তেহরি এবং উত্তরকাশী জেলায়,2026-07-30T05:24:00+00:00,India,0.2675887916680474,4,1,bn,SAS,Asia
+'778d256165',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ভারত,2026-08-12T04:23:00+00:00,India,0.2659541837870119,5,1,bn,SAS,Asia
 '83bb1353b0',extremes,Flood,#030ba1,emdat,চট্টগ্রামে বন্যা রোহিঙ্গা শরণার্থী শিবির,2026-07-28T05:31:00+00:00,Bangladesh,0.2650508259075732,4,1,bn,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,বন্যা ভারত,2026-08-14T04:24:00+00:00,India,0.2636665525583154,5,1,bn,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ lts সহ মাঝারি বৃষ্টি,2026-08-19T03:26:00+00:00,India,0.2630391934174415,6,1,bn,SAS,Asia
 'e3e022bbbf',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি মির্জাপুর শোভদ্র,2026-08-18T03:24:00+00:00,India,0.2493522836491013,3,1,bn,SAS,Asia
-'3286dc7d0b',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া সম্বল,2026-08-14T04:24:00+00:00,India,0.2487679563381137,4,1,bn,SAS,Asia
 '7b53ac38f5',extremes,Drought,#edc291,edo,শুষ্ক বানান বাংলাদেশ,2026-08-01T05:42:00+00:00,Bangladesh,0.2471136363098765,5,1,bn,SAS,Asia
 'b6a7c43ff9',extremes,Drought,#edc291,edo,শুষ্কতা বাংলাদেশ,2026-08-19T03:26:00+00:00,Bangladesh,0.2455333326548501,5,1,bn,SAS,Asia
 '9bf42357ea',extremes,Precipitation,#d60d2b,wmo,উত্তরকাশী দেরাদুন পাউরি তেহরি,2026-08-06T05:33:00+00:00,India,0.2440844723206027,5,1,bn,SAS,Asia
@@ -24,27 +21,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f52120e987',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় বিচ্ছিন্ন জায়গা,2026-08-21T03:30:00+00:00,India,0.2376139813959964,3,1,bn,SAS,Asia
 '296d71c63d',extremes,Precipitation,#d60d2b,wmo,চণ্ডীগড়ে বর্ষণ,2026-08-18T03:24:00+00:00,India,0.236503806484946,4,1,bn,SAS,Asia
 '9324c09fc4',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি মোড tsra এবং মোড থেকে ভারী বৃষ্টি,2026-08-20T03:26:00+00:00,India,0.236311257686285,4,1,bn,SAS,Asia
-'d313ae7750',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি কেরালা ওডিশা,2026-08-07T09:56:00+00:00,India,0.2361329186710628,4,1,bn,SAS,Asia
 'fc9243330a',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি চন্ডিগড়,2026-08-19T03:26:00+00:00,India,0.2340477145836676,5,1,bn,SAS,Asia
 '508ca6ddbe',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি কেন্দ্রীয় আপ,2026-08-19T03:26:00+00:00,India,0.2336789435707544,4,1,bn,SAS,Asia
 '2f3e9e3f6e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ফ্ল্যাশফ্লাড নির্দেশিকা,2026-07-31T05:51:00+00:00,India,0.2332867413145147,4,1,bn,SAS,Asia
 '6675fdaa12',extremes,Precipitation,#d60d2b,wmo,সীতাপুরে বৃষ্টি,2026-08-16T03:28:00+00:00,India,0.2314541557318345,5,1,bn,SAS,Asia
 'ea574bcad8',extremes,Precipitation,#d60d2b,wmo,বর্ষণ কানপুর বাদাউন,2026-08-14T04:24:00+00:00,India,0.2312723111107208,6,1,bn,SAS,Asia
-'9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,দাবানল মধ্য পশ্চিম আয়ারল্যান্ড,2026-08-07T11:06:00+00:00,Ireland,0.231023794314063,2,1,bn,NEU,Europe
+'82fd55b965',extremes,Drought,#edc291,edo,শুষ্ক বানান ভারত,2026-08-01T05:42:00+00:00,India,0.2310759328753198,4,1,bn,SAS,Asia
 'fe300e279f',extremes,Wildfire,#d60d2b,effis,wild fire n.a. কসোভো,2026-08-07T09:56:00+00:00,Kosovo,0.2310237914061164,2,1,bn,MED,Europe
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,বুশফায়ার মালত্য টার্কি,2026-08-07T11:06:00+00:00,Turkey,0.23102376203475,2,1,bn,MED,Asia
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,দক্ষিণ পশ্চিম আয়ারল্যান্ডে দাবানল,2026-08-07T11:06:00+00:00,Ireland,0.2310236787383323,2,1,bn,NEU,Europe
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,দাবানল পর্তুগাল,2026-08-07T09:56:00+00:00,Portugal,0.231023596453934,2,1,bn,MED,Europe
-'1e3db537cb',extremes,Wildfire,#d60d2b,effis,বুশফায়ার niederösterreich süd অস্ট্রিয়া,2026-08-07T11:06:00+00:00,Austria,0.2310232792101146,2,1,bn,WCE,Europe
-'38c3444fa0',extremes,Wildfire,#d60d2b,effis,বন্য আগুন বসনিয়া ও হার্জেগোভিনা,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2310232596226441,2,1,bn,MED,Europe
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,বুশফায়ার ক্রোয়েশিয়া,2026-08-07T11:06:00+00:00,Croatia,0.2310223831068652,2,1,bn,WCE,Europe
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,wildfire turkey,2026-08-07T09:56:00+00:00,Turkey,0.2310222994831863,3,1,bn,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,বুশফায়ার টার্কি,2026-08-07T09:56:00+00:00,Turkey,0.2310222286180217,3,1,bn,MED,Asia
-'be76e7e185',extremes,Wildfire,#d60d2b,effis,দাবানল রোমানিয়া,2026-08-07T09:56:00+00:00,Romania,0.23102217384227333,3,1,bn,MED,Europe
-'51639203d2',extremes,Wildfire,#d60d2b,effis,wildfire denizli turkey,2026-08-07T11:06:00+00:00,Turkey,0.2310220223982017,3,1,bn,MED,Asia
-'3617de9e43',extremes,Wildfire,#d60d2b,effis,দাবানল লেবানন,2026-08-07T11:06:00+00:00,Lebanon,0.23102188933209003,3,1,bn,MED,Asia
-'934c9595eb',extremes,Wildfire,#d60d2b,effis,বন্য আগুন সার্বিয়া,2026-08-07T11:06:00+00:00,Serbia,0.23102188549117703,3,1,bn,MED,Europe
-'6d6528d836',extremes,Wildfire,#d60d2b,effis,wild fire albania,2026-08-07T09:56:00+00:00,Albania,0.23102159611701228,3,1,bn,MED,Europe
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,দাবানল রোমানিয়া,2026-08-07T09:56:00+00:00,Romania,0.2310221738422733,3,1,bn,MED,Europe
+'3617de9e43',extremes,Wildfire,#d60d2b,effis,দাবানল লেবানন,2026-08-07T11:06:00+00:00,Lebanon,0.23102188933209,3,1,bn,MED,Asia
+'934c9595eb',extremes,Wildfire,#d60d2b,effis,বন্য আগুন সার্বিয়া,2026-08-07T11:06:00+00:00,Serbia,0.231021885491177,3,1,bn,MED,Europe
 '3abe406473',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ওড়িশার ঝাড়সুগুদা জেলা,2026-08-13T04:26:00+00:00,India,0.2305212320237868,6,1,bn,SAS,Asia
 'a1b119cf90',extremes,Storm,#b3b2b1,wmo,ঝড় দক্ষিণ ২৪ পরগনায়,2026-08-12T04:23:00+00:00,India,0.2299695739487829,7,1,bn,SAS,Asia
 '9bcaeb1ef4',extremes,Storm,#b3b2b1,wmo,ঝড় mod tsra,2026-08-18T03:24:00+00:00,India,0.2292977062486601,7,1,bn,SAS,Asia
@@ -62,7 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2026-08-11T04:01:00+00:00,India,0.2205063922640541,6,1,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-08-15T03:13:00+00:00,Bangladesh,0.2198458720005122,4,1,bn,SAS,Asia
 '78346165bf',extremes,Flood,#030ba1,wmo,ফ্লাড ফ্ল্যাশ বন্যার ঝুঁকি,2026-08-07T09:56:00+00:00,India,0.2188897210085656,7,1,bn,SAS,Asia
-'ff7862e348',extremes,Drought,#edc291,edo,শুষ্কতা ভারত,2026-08-14T04:24:00+00:00,India,0.21858907322524537,3,1,bn,SAS,Asia
+'ff7862e348',extremes,Drought,#edc291,edo,শুষ্কতা ভারত,2026-08-14T04:24:00+00:00,India,0.2185890732252453,3,1,bn,SAS,Asia
 '296fd15a31',extremes,Storm,#b3b2b1,wmo,ঝড় বিচ্ছিন্ন জায়গা,2026-08-15T03:13:00+00:00,India,0.2178070484733035,6,1,bn,SAS,Asia
 '016756e45c',extremes,Precipitation,#d60d2b,wmo,উত্তরাখণ্ডের হরিদ্বার জেলা,2026-08-10T04:14:00+00:00,India,0.2164813946289981,5,1,bn,SAS,Asia
 '636c676150',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় ইতাওয়া আউরাইয়া কানপুর দেহাত,2026-08-07T11:06:00+00:00,India,0.2153233198319432,4,1,bn,SAS,Asia
@@ -70,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb5805c6b1',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় প্রয়াগরাজ জৌনপুর এবং কাছাকাছি,2026-08-05T05:31:00+00:00,India,0.2136056003318968,4,1,bn,SAS,Asia
 'b0193d7e57',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি হরিদ্বার পৌরি নৈনিতাল আমাদের নগর,2026-08-18T03:24:00+00:00,India,0.2128058495698594,4,1,bn,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,ভারতবর্ষণ,2026-08-11T04:01:00+00:00,India,0.2116251734709585,5,1,bn,SAS,Asia
+'3286dc7d0b',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া সম্বল,2026-08-14T04:24:00+00:00,India,0.21145276288739662,5,1,bn,SAS,Asia
 '25a3be3c80',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি প্রয়াগরাজ,2026-08-04T05:32:00+00:00,India,0.2114447064644529,5,1,bn,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত ভারত,2026-08-14T04:24:00+00:00,India,0.2107729245096784,7,1,bn,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2026-08-11T04:01:00+00:00,India,0.2107228512394801,6,1,bn,SAS,Asia
@@ -90,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09f5291425',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ইতাওয়া আউরাইয়া কানপুর দেহাত,2026-08-07T09:56:00+00:00,India,0.2013447685667367,6,1,bn,SAS,Asia
 '82550c3c9f',extremes,Precipitation,#d60d2b,wmo,কেন্দ্রীভূত বর্ষণ,2026-08-16T03:28:00+00:00,India,0.2012959683299198,5,1,bn,SAS,Asia
 '860af4b577',extremes,Precipitation,#d60d2b,wmo,ত্রিপুরার উত্তর ত্রিপুরা জেলা,2026-08-07T09:56:00+00:00,India,0.2010535693837195,5,1,bn,SAS,Asia
+'d313ae7750',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি কেরালা ওডিশা,2026-08-07T09:56:00+00:00,India,0.20071298087040337,5,1,bn,SAS,Asia
 'f3e202b15b',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া হরিদ্বার এবং বাকি জেলাগুলিতে,2026-08-16T03:28:00+00:00,India,0.200367558342489,4,1,bn,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,ঝড় ভারত,2026-08-11T04:01:00+00:00,India,0.2000934409643248,6,1,bn,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,খরা ভারত,2026-08-04T05:32:00+00:00,India,0.2000648028163784,5,1,bn,SAS,Asia
@@ -110,33 +104,30 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,wild fire n.a. আলজেরিয়া,2026-08-07T09:56:00+00:00,Algeria,0.196370136934626,3,1,bn,MED,Africa
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,বুশফায়ার এস্কিশেহির টার্কি,2026-08-07T11:06:00+00:00,Turkey,0.1963701260175101,3,1,bn,MED,Asia
 '1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,wildfire n.a. আলজেরিয়া,2026-08-07T09:56:00+00:00,Algeria,0.1963701025970825,3,1,bn,MED,Africa
-'71c228acb5',extremes,Wildfire,#d60d2b,effis,wild fire turkey,2026-08-07T09:56:00+00:00,Turkey,0.1963695635027037,3,1,bn,MED,Asia
+'1e3db537cb',extremes,Wildfire,#d60d2b,effis,বুশফায়ার niederösterreich süd অস্ট্রিয়া,2026-08-07T11:06:00+00:00,Austria,0.1963697873285974,3,1,bn,WCE,Europe
+'38c3444fa0',extremes,Wildfire,#d60d2b,effis,বন্য আগুন বসনিয়া ও হার্জেগোভিনা,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1963697706792475,3,1,bn,MED,Europe
+'51639203d2',extremes,Wildfire,#d60d2b,effis,wildfire denizli turkey,2026-08-07T11:06:00+00:00,Turkey,0.19636871903847142,4,1,bn,MED,Asia
+'6d6528d836',extremes,Wildfire,#d60d2b,effis,wild fire albania,2026-08-07T09:56:00+00:00,Albania,0.19636835669946037,4,1,bn,MED,Europe
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-08-11T04:01:00+00:00,India,0.1961683135675496,5,1,bn,SAS,Asia
 'cc6467e680',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ঘাঘরা দারুলি সিওয়ান বিহার,2026-08-04T05:32:00+00:00,India,0.1955876507511384,5,1,bn,SAS,Asia
 '6b385768a1',extremes,Precipitation,#d60d2b,wmo,ত্রিপুরার দক্ষিণ ত্রিপুরা জেলা,2026-08-05T05:31:00+00:00,India,0.194856814198204,5,1,bn,SAS,Asia
-'615a4551a5',extremes,Flood,#030ba1,wmo,ভারত বন্যা,2026-08-12T04:23:00+00:00,India,0.19298400510796382,8,1,bn,SAS,Asia
+'615a4551a5',extremes,Flood,#030ba1,wmo,ভারত বন্যা,2026-08-12T04:23:00+00:00,India,0.1929840051079638,8,1,bn,SAS,Asia
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,সুপার টাইফুন ডলফিন,2026-07-30T05:24:00+00:00,,0.1922253291184553,4,1,bn,NPO,Pacific Ocean
 '69f6b18bc8',extremes,Drought,#edc291,edo,বৃষ্টির অভাব বাংলাদেশে,2026-08-07T04:37:00+00:00,Bangladesh,0.1917309924170086,6,1,bn,SAS,Asia
-'3d6bde5b08',extremes,Storm,#b3b2b1,wmo,ঝড় সেশেলস,2026-07-29T05:37:00+00:00,Seychelles,0.1872947960319822,3,1,bn,EIO,Africa
 '042968096b',extremes,Storm,#b3b2b1,wmo,ঝড় আইসল্যান্ড,2026-08-02T05:42:00+00:00,Iceland,0.187236210525906,3,1,bn,GIC,Europe
 '9ad3f02e70',extremes,Storm,#b3b2b1,wmo,storm reg. 3 আক্ষরিক,2026-08-01T05:42:00+00:00,Chile,0.1865614318958479,3,1,bn,SWS,South-America
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,তুফান নামা,2026-07-29T05:37:00+00:00,Algeria,0.1864936727234166,3,1,bn,SAH,Africa
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,ফ্রস্ট মিলফোর্ড রোড sh94,2026-07-30T05:24:00+00:00,New Zealand,0.1861902347649306,3,1,bn,NZ,Oceania
 'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত মরুভূমি রাস্তা sh1,2026-07-31T05:51:00+00:00,New Zealand,0.1859293220400612,3,1,bn,NZ,Oceania
 '02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,দাবানল østlandet এবং agder এর কিছু অংশ,2026-07-27T06:05:00+00:00,Norway,0.185768368528432,3,1,bn,NEU,Europe
-'b918e7fca0',extremes,Wildfire,#d60d2b,wmo,agder এবং telemark এর দাবানল অংশ,2026-07-27T06:05:00+00:00,Norway,0.1856057224919612,3,1,bn,NEU,Europe
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,বরফ ডুনেডিন থেকে ওয়েটিটি হাইওয়ে sh1,2026-07-31T05:51:00+00:00,New Zealand,0.1855889711204902,4,1,bn,NZ,Oceania
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি লিটারাল,2026-08-02T05:42:00+00:00,Ecuador,0.1855441438019851,4,1,bn,NWS,South-America
-'7d13279eb3',extremes,Storm,#b3b2b1,wmo,storm surge jamaica,2026-07-30T05:24:00+00:00,Jamaica,0.1855235248289346,3,1,bn,CAR,North-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ ইকুয়েডর,2026-08-01T05:42:00+00:00,Ecuador,0.1854813353416548,3,1,bn,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ইকুয়েডর,2026-08-02T05:42:00+00:00,Ecuador,0.1853968594334678,3,1,bn,NWS,South-America
-'288e7f4724',extremes,Wildfire,#d60d2b,wmo,wildfire turukhanskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.185178894854554,3,1,bn,ESB,Europe
-'7ba1677e33',extremes,Wildfire,#d60d2b,wmo,দাবানল Evenkiyskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.1850944840063899,3,1,bn,ESB,Europe
 '4c339c0e1e',extremes,Thunderstorm,#53785a,wmo,রাজস্থানের আলওয়ার জেলায় বজ্রঝড়,2026-08-14T04:24:00+00:00,India,0.1803117439473489,5,1,bn,SAS,Asia
 '4c74471839',extremes,Flood,#030ba1,wmo,প্লাবিত ব্রহ্মপুত্র ধুবড়ি ধুবরি আসাম,2026-08-11T04:01:00+00:00,India,0.1786604189336877,7,1,bn,SAS,Asia
 '2933ccc114',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি নৈনিতাল আমাদের নগর,2026-08-14T04:24:00+00:00,India,0.1777694154917018,5,1,bn,SAS,Asia
 '94cc280f7b',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া চন্ডৌলি সোনভদ্র,2026-08-04T05:32:00+00:00,India,0.176420717957554,6,1,bn,SAS,Asia
-'41e25f9467',extremes,Thunderstorm,#53785a,wmo,সুলতানপুর আপ ও তৎসংলগ্ন এলাকায় বজ্রপাত,2026-08-03T05:57:00+00:00,India,0.1757388027116076,6,1,bn,SAS,Asia
 '846d33616a',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় কিছু অংশ,2026-08-10T04:14:00+00:00,India,0.1736822678578337,5,1,bn,SAS,Asia
 'dbed586a71',extremes,Precipitation,#d60d2b,wmo,বৃষ্টিপাত মহারাষ্ট্রের রায়গড় জেলা,2026-08-07T11:06:00+00:00,India,0.1701371558733855,6,1,bn,SAS,Asia
 '6594d97d36',extremes,Flood,#030ba1,wmo,বন্যা ব্রহ্মপুত্র ধুবড়ি ধুবরি আসাম,2026-08-10T04:14:00+00:00,India,0.1698028095881671,6,1,bn,SAS,Asia
@@ -171,9 +162,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02d4c311ee',extremes,Wildfire,#d60d2b,effis,বুশফায়ার লুগো স্পেন,2026-08-07T11:06:00+00:00,Spain,0.1669147163664911,4,1,bn,MED,Europe
 'b1a02426c6',extremes,Wildfire,#d60d2b,effis,বুশফায়ার ডুব্রোভাকো নেরেটভানস্কা জুপানিজা ক্রোয়েশিয়া,2026-08-07T11:06:00+00:00,Croatia,0.1669147138052177,4,1,bn,MED,Europe
 '9da2e4d9fb',extremes,Wildfire,#d60d2b,effis,বুশফায়ার ভেলিকা ক্লাদুসা বসনিয়া ও হার্জেগোভিনা,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1669147107852978,4,1,bn,WCE,Europe
+'9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,দাবানল মধ্য পশ্চিম আয়ারল্যান্ড,2026-08-07T11:06:00+00:00,Ireland,0.1669146913919105,4,1,bn,NEU,Europe
 '8fac42b03a',extremes,Wildfire,#d60d2b,effis,wild fire kahramanmaraş টার্কি,2026-08-07T11:06:00+00:00,Turkey,0.1669146732237938,4,1,bn,MED,Asia
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,wildfire harouf lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1669146556936063,4,1,bn,MED,Asia
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,বুশফায়ার মাজদেল বানা লেবানন,2026-08-07T11:06:00+00:00,Lebanon,0.1669146443439381,4,1,bn,MED,Asia
+'71c228acb5',extremes,Wildfire,#d60d2b,effis,wild fire turkey,2026-08-07T09:56:00+00:00,Turkey,0.16691412897729815,4,1,bn,MED,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2026-08-07T04:37:00+00:00,India,0.164072640637169,5,1,bn,SAS,Asia
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,বুশফায়ার তাসমানিয়া,2026-07-30T05:24:00+00:00,Australia,0.1633191587444434,4,1,bn,SAU,Oceania
 'b445ee6ee0',extremes,Drought,#edc291,edo,শুষ্কতা এল সালভাদর,2026-08-04T05:32:00+00:00,El Salvador,0.1626114632026343,5,1,bn,SCA,North-America
@@ -189,6 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,আর্জেন্টিনায় বৃষ্টি,2026-07-30T05:24:00+00:00,Argentina,0.157967911297597,4,1,bn,SES,South-America
 '9f50f80ea2',extremes,Drought,#edc291,edo,শুকনো বানান মন্টিনিগ্রো,2026-07-31T05:51:00+00:00,Montenegro,0.1577909055517538,4,1,bn,MED,Europe
 'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,হিমায়িত পোর্টার পাস sh73,2026-07-31T05:51:00+00:00,New Zealand,0.157724998010559,4,1,bn,NZ,Oceania
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,storm surge jamaica,2026-07-30T05:24:00+00:00,Jamaica,0.15769499610459442,4,1,bn,CAR,North-America
 '6382a3f479',extremes,Storm,#b3b2b1,wmo,ঝড় উপকূলীয় ওটাগো,2026-07-31T05:51:00+00:00,New Zealand,0.157476650002805,4,1,bn,NZ,Oceania
 '07403ae253',extremes,Earthquake,#870007,usgs,ভূমিকম্প পোর্ট ব্লেয়ার,2026-08-07T04:37:00+00:00,India,0.1551167128995408,5,1,bn,SEA,Asia
 '4e07fc8f74',extremes,Wildfire,#d60d2b,effis,wild fire habbouche lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1418775416376849,6,1,bn,MED,Asia
