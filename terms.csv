@@ -1,11 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'7aa008bd6e',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড সোনা মনের পাটনা বিহার,2026-08-27T13:00:00+00:00,India,0.5965997095935607,0,2,bn,SAS,Asia
+'f22fd95fd6',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড কোসি কুরসেলা কাটিহার বিহার,2026-08-27T13:00:00+00:00,India,0.5932868983956001,0,2,bn,SAS,Asia
+'cc6467e680',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ঘাঘরা দারুলি সিওয়ান বিহার,2026-08-27T13:00:00+00:00,India,0.5906370687515895,0,2,bn,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,ঝড় ভারত,2026-08-11T04:01:00+00:00,India,0.5882638761251385,0,2,bn,SAS,Asia
+'490ea9547b',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড কোসি বসুয়া সুপল বিহার,2026-08-27T13:00:00+00:00,India,0.5848999007586487,0,2,bn,SAS,Asia
 '78346165bf',extremes,Flood,#030ba1,wmo,ফ্লাড ফ্ল্যাশ বন্যার ঝুঁকি,2026-08-07T09:56:00+00:00,India,0.5803791651325038,0,2,bn,SAS,Asia
+'8c789f8ca4',extremes,Flood,#030ba1,wmo,বন্যা গণ্ডক হাজিপুর বৈশালী বিহার,2026-08-27T13:00:00+00:00,India,0.5769903934936046,0,2,bn,SAS,Asia
 '4c74471839',extremes,Flood,#030ba1,wmo,প্লাবিত ব্রহ্মপুত্র ধুবড়ি ধুবরি আসাম,2026-08-11T04:01:00+00:00,India,0.5723003056081583,0,2,bn,SAS,Asia
 '546d646ad9',extremes,Earthquake,#870007,usgs,ভূমিকম্প শি ইয়োমি,2026-08-06T05:33:00+00:00,India,0.5714354440919945,0,2,bn,TIB,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,storm surge India,2026-08-11T04:01:00+00:00,India,0.5709178433989346,0,2,bn,SAS,Asia
+'88d29f47bc',extremes,Storm,#b3b2b1,wmo,ঝড় ঝাড়গ্রাম,2026-08-27T13:00:00+00:00,India,0.5695938852650727,0,2,bn,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,ভারতবর্ষণ,2026-08-11T04:01:00+00:00,India,0.5648591453413323,0,2,bn,SAS,Asia
+'1c0f0dc5e2',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা ভাগলপুর ভাগলপুর বিহার,2026-08-27T13:00:00+00:00,India,0.5642325654669662,0,2,bn,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2026-08-11T04:01:00+00:00,India,0.540522841983613,0,2,bn,SAS,Asia
+'4ff91d3ac8',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় tslg,2026-08-27T13:00:00+00:00,India,0.5390596737950387,0,2,bn,SAS,Asia
+'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি ভারত,2026-08-11T04:01:00+00:00,India,0.53233200349407,0,2,bn,SAS,Asia
+'d3f10e7615',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি মাঝারি বৃষ্টি,2026-08-23T03:30:00+00:00,India,0.5268498994734145,0,2,bn,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,ভারত বন্যা,2026-08-12T04:23:00+00:00,India,0.51169097960568,1,1,bn,SAS,Asia
 '0b6d7fb2bb',extremes,Flood,#030ba1,wmo,বন্যা বরাক বদরপুরঘাট কাছাড় আসাম,2026-08-07T04:37:00+00:00,India,0.4866672604414442,1,1,bn,SAS,Asia
 '1b693a223d',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড বারাক এপি ঘাট কাছাড় আসাম,2026-08-07T04:37:00+00:00,India,0.4802465362719899,1,1,bn,SAS,Asia
@@ -55,9 +65,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,wild fire albania,2026-08-07T09:56:00+00:00,Albania,0.1669131031945412,5,1,bn,MED,Europe
 '3abe406473',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ওড়িশার ঝাড়সুগুদা জেলা,2026-08-13T04:26:00+00:00,India,0.1665515901371859,8,1,bn,SAS,Asia
 '9bcaeb1ef4',extremes,Storm,#b3b2b1,wmo,ঝড় mod tsra,2026-08-18T03:24:00+00:00,India,0.1656675927646569,9,1,bn,SAS,Asia
-'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,tsl সহ তীব্র আবহাওয়া মাঝারি বৃষ্টি,2026-08-21T03:30:00+00:00,India,0.16551384043965353,7,1,bn,SAS,Asia
+'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,tsl সহ তীব্র আবহাওয়া মাঝারি বৃষ্টি,2026-08-21T03:30:00+00:00,India,0.1655138404396535,7,1,bn,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,বৃষ্টির অভাব ভারত,2026-08-07T04:37:00+00:00,India,0.164072640637169,5,1,bn,SAS,Asia
-'519c58c063',extremes,Flood,#030ba1,wmo,বন্যা ভারত,2026-08-14T04:24:00+00:00,India,0.16192422158987538,8,1,bn,SAS,Asia
+'519c58c063',extremes,Flood,#030ba1,wmo,বন্যা ভারত,2026-08-14T04:24:00+00:00,India,0.1619242215898753,8,1,bn,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ lts সহ মাঝারি বৃষ্টি,2026-08-19T03:26:00+00:00,India,0.1615389446574862,9,1,bn,SAS,Asia
 'eff78b7be8',extremes,Drought,#edc291,edo,খরা বাংলাদেশ,2026-08-15T03:13:00+00:00,Bangladesh,0.15883864252037,6,1,bn,SAS,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,শুষ্কতা ভারত,2026-08-14T04:24:00+00:00,India,0.1579306054052397,5,1,bn,SAS,Asia
