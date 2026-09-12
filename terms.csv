@@ -1,15 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c95e885889',extremes,Thunderstorm,#53785a,wmo,তীব্র আবহাওয়া ভারত,2026-08-31T08:51:00+00:00,India,0.4242742587478177,2,1,bn,SAS,Asia
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় ভারত,2026-08-31T08:51:00+00:00,India,0.419704063225199,2,1,bn,SAS,Asia
-'7226aacca0',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় লখিমপুর খেরি,2026-09-07T07:29:00+00:00,India,0.4120157327641211,2,1,bn,SAS,Asia
 '39e6c6aa64',extremes,Precipitation,#d60d2b,wmo,অন্ধ্রপ্রদেশের ৪টি জেলায় বৃষ্টি,2026-09-11T07:27:00+00:00,India,0.3843597643611687,2,1,bn,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,বন্যা ভারত,2026-09-03T07:20:00+00:00,India,0.3697168169972623,3,1,bn,SAS,Asia
 'bcd50678ae',extremes,Storm,#b3b2b1,wmo,ঝড় কিছু অংশ,2026-09-07T07:29:00+00:00,India,0.3694179801850907,2,1,bn,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড ভারত,2026-09-01T07:58:00+00:00,India,0.3686141458727586,3,1,bn,SAS,Asia
 '197d58185e',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ মোড বৃষ্টি এবং এলটিএস,2026-09-03T07:20:00+00:00,India,0.3643023988806719,2,1,bn,SAS,Asia
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-08-31T08:51:00+00:00,India,0.36429273624909725,3,1,bn,SAS,Asia
-'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2026-08-31T08:51:00+00:00,India,0.3642098324721642,3,1,bn,SAS,Asia
-'6d0448f11b',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা কাহালগাঁও ভাগলপুর বিহার,2026-09-08T07:23:00+00:00,India,0.3616339040630677,3,1,bn,SAS,Asia
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,শিলাবৃষ্টি ভারত,2026-08-31T08:51:00+00:00,India,0.3642927362490972,3,1,bn,SAS,Asia
 '490ea9547b',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড কোসি বসুয়া সুপল বিহার,2026-08-27T13:00:00+00:00,India,0.3592016515534051,3,1,bn,SAS,Asia
 'aa86a99742',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড কোসি বলতারা খাগরিয়া বিহার,2026-08-27T13:00:00+00:00,India,0.357679504292147,3,1,bn,SAS,Asia
 '774d2bf860',extremes,Flood,#030ba1,wmo,বন্যা সোনা মনের পাটনা বিহার,2026-08-30T08:30:00+00:00,India,0.3564177318475812,3,1,bn,SAS,Asia
@@ -23,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '370495a998',extremes,Precipitation,#d60d2b,wmo,বৃষ্টি আজমগড় মৌ,2026-08-27T13:00:00+00:00,India,0.3514133484942969,2,1,bn,SAS,Asia
 '6594d97d36',extremes,Flood,#030ba1,wmo,বন্যা ব্রহ্মপুত্র ধুবড়ি ধুবরি আসাম,2026-09-08T07:23:00+00:00,India,0.3509780447246713,3,1,bn,SAS,Asia
 'e9f3d3cb84',extremes,Flood,#030ba1,wmo,বন্যা সংকোষ গোলোকগঞ্জ ধুবরি আসাম,2026-09-08T07:23:00+00:00,India,0.3506370962557349,3,1,bn,SAS,Asia
+'7226aacca0',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় লখিমপুর খেরি,2026-09-07T07:29:00+00:00,India,0.35021337284950294,3,1,bn,SAS,Asia
 '88d29f47bc',extremes,Storm,#b3b2b1,wmo,ঝড় ঝাড়গ্রাম,2026-08-27T13:00:00+00:00,India,0.3498018447884127,3,1,bn,SAS,Asia
 '34855192b0',extremes,Flood,#030ba1,wmo,ঘাঘরা দারুলি সিওয়ান বিহারে বন্যা,2026-08-28T14:32:00+00:00,India,0.3470991971503954,3,1,bn,SAS,Asia
 'c20f3440df',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় বাঁকুরাপুরুলিয়া,2026-08-29T09:18:00+00:00,India,0.3455316935997879,3,1,bn,SAS,Asia
@@ -50,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fd9dda4ce',extremes,Flood,#030ba1,wmo,ঘাঘরা ছাপ্পরা শরণ বিহার বন্যা,2026-09-06T07:16:00+00:00,India,0.3269790600658296,2,1,bn,SAS,Asia
 'a18ff2a3c6',extremes,Thunderstorm,#53785a,wmo,বজ্রঝড় মোড tsra,2026-09-01T07:58:00+00:00,India,0.3268019970359212,3,1,bn,SAS,Asia
 '86457154b0',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ সুন্দরগাদা কেন্দুঝাড়,2026-08-13T04:26:00+00:00,India,0.3267213289000321,3,1,bn,SAS,Asia
-'d14bb7b5da',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি পশ্চিমবঙ্গের মুর্শিদাবাদ জেলা,2026-09-07T07:29:00+00:00,India,0.3261879138708194,2,1,bn,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,ভূমিকম্প ভারত,2026-08-28T14:31:00+00:00,India,0.3255406944447463,3,1,bn,SEA,Asia
 '22a1a9ebb8',extremes,Storm,#b3b2b1,wmo,ঝড় সহ মাঝারি বৃষ্টিপাত,2026-09-02T07:16:00+00:00,India,0.3254868605697749,3,1,bn,SAS,Asia
 '3d7ac448d0',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি দেরাদুন তেহরি পাউরি,2026-08-18T03:24:00+00:00,India,0.3248222184449888,2,1,bn,SAS,Asia
@@ -75,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab18a2b4aa',extremes,Storm,#b3b2b1,wmo,পশ্চিমবঙ্গের নদীয়া জেলায় ঝড়,2026-09-07T07:29:00+00:00,India,0.3106271949481166,3,1,bn,SAS,Asia
 '7e1647f26a',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা কাহালগাঁও ভাগলপুর বিহার,2026-09-02T07:16:00+00:00,India,0.3105005532940957,4,1,bn,SAS,Asia
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি হালকা থেকে মাঝারি বৃষ্টিপাত,2026-08-15T03:13:00+00:00,India,0.3103014038459922,3,1,bn,SAS,Asia
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ভারত,2026-08-31T08:51:00+00:00,India,0.30957835760133956,4,1,bn,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,ঝড়ের ঢেউ lts সহ মাঝারি বৃষ্টি,2026-08-19T03:26:00+00:00,India,0.3094578746087547,3,1,bn,SAS,Asia
 '00bea9baed',extremes,Storm,#b3b2b1,wmo,মিজোরামের ৭টি জেলায় ঝড়,2026-08-28T14:32:00+00:00,India,0.308694113351699,3,1,bn,SAS,Asia
 'a81eb0fdde',extremes,Flood,#030ba1,wmo,বন্যা ঘাঘরা দারুলি সিওয়ান বিহার,2026-09-07T07:29:00+00:00,India,0.3084981603237465,4,1,bn,SAS,Asia
@@ -83,7 +79,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cfcd70babb',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি ইতাওয়া আগ্রা গাজিপুর,2026-09-01T07:58:00+00:00,India,0.3082144682494718,3,1,bn,SAS,Asia
 '136c5b71eb',extremes,Flood,#030ba1,wmo,বন্যা কোসি বলতারা খাগরিয়া বিহার,2026-08-29T09:18:00+00:00,India,0.3080776871401287,4,1,bn,SAS,Asia
 '53ebaec875',extremes,Flood,#030ba1,wmo,বন্যা গণ্ডক হাজিপুর বৈশালী বিহার,2026-09-05T07:05:00+00:00,India,0.3079611781943729,4,1,bn,SAS,Asia
-'3b2210ba28',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা হাতিদহ পাটনা বিহার,2026-08-30T08:30:00+00:00,India,0.30746735315965446,4,1,bn,SAS,Asia
+'3b2210ba28',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা হাতিদহ পাটনা বিহার,2026-08-30T08:30:00+00:00,India,0.3074673531596544,4,1,bn,SAS,Asia
+'6d0448f11b',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা কাহালগাঁও ভাগলপুর বিহার,2026-09-08T07:23:00+00:00,India,0.30738881845360755,4,1,bn,SAS,Asia
 '8006472463',extremes,Flood,#030ba1,wmo,ফ্ল্যাশফ্লাড পুনপুন শ্রীপালপুর পাটনা বিহার,2026-09-06T07:16:00+00:00,India,0.3068350907913601,4,1,bn,SAS,Asia
 '9b18fbff36',extremes,Flood,#030ba1,wmo,বন্যা গঙ্গা মুঙ্গের মুঙ্গের বিহার,2026-09-05T07:05:00+00:00,India,0.3067354688923633,4,1,bn,SAS,Asia
 '4fc6c13608',extremes,Flood,#030ba1,wmo,বন্যা বিচ্ছিন্ন স্থান,2026-09-02T07:16:00+00:00,India,0.3065196309682235,4,1,bn,SAS,Asia
@@ -114,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4a43ea780',extremes,Precipitation,#d60d2b,wmo,ফারুখাবাদ কনৌজ মেইনপুরী বর্ষণ,2026-08-28T14:32:00+00:00,India,0.281096297208277,3,1,bn,SAS,Asia
 '30ec449534',extremes,Precipitation,#d60d2b,wmo,পুদুচেরির পন্ডিচেরি জেলা,2026-08-25T03:27:00+00:00,India,0.2780705916622699,3,1,bn,SAS,Asia
 'bb915c0bb3',extremes,Thunderstorm,#53785a,wmo,ওডিশার বালেশ্বর জেলায় তীব্র আবহাওয়া,2026-08-28T14:32:00+00:00,India,0.2776115149139397,4,1,bn,SAS,Asia
+'d14bb7b5da',extremes,Precipitation,#d60d2b,wmo,মুষলধারে বৃষ্টি পশ্চিমবঙ্গের মুর্শিদাবাদ জেলা,2026-09-07T07:29:00+00:00,India,0.2772597267901965,3,1,bn,SAS,Asia
 '1af7d09d9c',extremes,Storm,#b3b2b1,wmo,পশ্চিম বর্ধমান জেলার কিছু অংশে ঝড়,2026-08-29T09:18:00+00:00,India,0.2740471153279007,4,1,bn,SAS,Asia
 '835bd02db9',extremes,Storm,#b3b2b1,wmo,ঝড় ঝাড়খণ্ডের ৭টি জেলায়,2026-08-31T08:51:00+00:00,India,0.273952962517163,4,1,bn,SAS,Asia
 'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,tsl সহ তীব্র আবহাওয়া মাঝারি বৃষ্টি,2026-08-21T03:30:00+00:00,India,0.2695116473676427,4,1,bn,SAS,Asia
